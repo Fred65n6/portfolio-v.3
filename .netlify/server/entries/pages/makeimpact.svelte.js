@@ -28,15 +28,15 @@ __export(stdin_exports, {
   router: () => router
 });
 var import_index_e03aaaec = require("../../chunks/index-e03aaaec.js");
-var import_Header_2_bca29771 = require("../../chunks/Header_2-bca29771.js");
+var import_Header_2_410e04a3 = require("../../chunks/Header_2-410e04a3.js");
 var import_stores_5fe3ad3b = require("../../chunks/stores-5fe3ad3b.js");
 var makeimpact_svelte_svelte_type_style_lang = "";
 const css = {
   code: ".header.svelte-15l7fen.svelte-15l7fen{width:97vw;padding-top:6rem;display:grid;place-items:center;border-bottom:solid 2px #42506b;border-left:solid 2px #42506b;border-right:solid 2px #42506b}.header.svelte-15l7fen img.svelte-15l7fen{padding:4rem}.content.svelte-15l7fen.svelte-15l7fen{padding:2rem;width:97vw;display:grid;justify-items:center;place-items:center;border-bottom:solid 2px #42506b;border-left:solid 2px #42506b;border-right:solid 2px #42506b}.content.svelte-15l7fen img.svelte-15l7fen{padding-block:4rem;max-width:350px}@media(min-width: 600px){.content.svelte-15l7fen.svelte-15l7fen{grid-template-columns:1fr 1fr;gap:10rem}.header.svelte-15l7fen img.svelte-15l7fen{max-width:750px}.content.svelte-15l7fen img.svelte-15l7fen{max-width:450px;padding-block:0rem}}",
   map: null
 };
-const hydrate = import_Header_2_bca29771.d;
-const router = import_Header_2_bca29771.b;
+const hydrate = import_Header_2_410e04a3.d;
+const router = import_Header_2_410e04a3.b;
 const prerender = true;
 const Makeimpact = (0, import_index_e03aaaec.c)(($$result, $$props, $$bindings, slots) => {
   $$result.css.add(css);
@@ -68,6 +68,6 @@ const Makeimpact = (0, import_index_e03aaaec.c)(($$result, $$props, $$bindings, 
 		</p></div>
 	<img src="${"Mask Group 25.png"}" alt="${"m! app"}" class="${"svelte-15l7fen"}"></section>
 
-${(0, import_index_e03aaaec.v)(import_Header_2_bca29771.H, "Header").$$render($$result, {}, {}, {})}`;
+${(0, import_index_e03aaaec.v)(import_Header_2_410e04a3.H, "Header").$$render($$result, {}, {}, {})}`;
 });
 module.exports = __toCommonJS(stdin_exports);
