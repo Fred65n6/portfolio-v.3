@@ -35,5 +35,9 @@ __export(stdin_exports, {
 var module2 = __toESM(require("../entries/pages/nb.svelte.js"));
 const entry = "pages/nb.svelte-212f77c6.js";
 const js = ["pages/nb.svelte-212f77c6.js", "chunks/vendor-17f4edd3.js", "chunks/Header_2-a51374b6.js", "chunks/stores-cce85fa5.js"];
+<<<<<<< HEAD
 const css = ["assets/pages/Toast.svelte-11d15590.css", "assets/Header_2-44adac39.css"];
+=======
+const css = ["assets/pages/Vildskud.svelte-7dcac94e.css", "assets/Header_2-44adac39.css"];
+>>>>>>> 0087e27124614cac82f0f4c384439459ae47f56b
 module.exports = __toCommonJS(stdin_exports);
