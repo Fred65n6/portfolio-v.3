@@ -1,0 +1,138 @@
+{
+  ".svelte-kit/build/index.js": {
+    "file": "index.js",
+    "src": ".svelte-kit/build/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index-e03aaaec.js"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "entries/pages/__layout.svelte.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-e03aaaec.js",
+      "src/routes/Footer.svelte"
+    ],
+    "css": [
+<<<<<<< HEAD
+      "assets/entries/pages/__layout.svelte-377a8b53.css"
+=======
+      "assets/entries/pages/__layout.svelte-ad6c5ca6.css"
+>>>>>>> 0087e27124614cac82f0f4c384439459ae47f56b
+    ]
+  },
+  "src/routes/Footer.svelte": {
+    "file": "entries/pages/Footer.svelte.js",
+    "src": "src/routes/Footer.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-e03aaaec.js"
+    ],
+    "css": [
+      "assets/entries/pages/Footer.svelte-326d158d.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-e03aaaec.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "entries/pages/index.svelte.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-e03aaaec.js",
+      "_stores-5fe3ad3b.js"
+    ],
+    "css": [
+      "assets/entries/pages/index.svelte-5fc72a5d.css"
+    ]
+  },
+  "src/routes/makeimpact.svelte": {
+    "file": "entries/pages/makeimpact.svelte.js",
+    "src": "src/routes/makeimpact.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-e03aaaec.js",
+      "_Header_2-410e04a3.js",
+      "_stores-5fe3ad3b.js"
+    ],
+    "css": [
+      "assets/entries/pages/makeimpact.svelte-4cb21099.css"
+    ]
+  },
+  "src/routes/Vildskud.svelte": {
+    "file": "entries/pages/Vildskud.svelte.js",
+    "src": "src/routes/Vildskud.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-e03aaaec.js",
+      "_Header_2-410e04a3.js",
+      "_stores-5fe3ad3b.js"
+    ],
+    "css": [
+      "assets/entries/pages/Vildskud.svelte-a2e8cf1c.css"
+    ]
+  },
+  "src/routes/Toast.svelte": {
+    "file": "entries/pages/Toast.svelte.js",
+    "src": "src/routes/Toast.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-e03aaaec.js",
+      "_Header_2-410e04a3.js",
+      "_stores-5fe3ad3b.js"
+    ],
+    "css": [
+      "assets/entries/pages/Vildskud.svelte-a2e8cf1c.css"
+    ]
+  },
+  "src/routes/about.svelte": {
+    "file": "entries/pages/about.svelte.js",
+    "src": "src/routes/about.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-e03aaaec.js",
+      "_Header_2-410e04a3.js",
+      "_stores-5fe3ad3b.js"
+    ]
+  },
+  "src/routes/nb.svelte": {
+    "file": "entries/pages/nb.svelte.js",
+    "src": "src/routes/nb.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-e03aaaec.js",
+      "_Header_2-410e04a3.js",
+      "_stores-5fe3ad3b.js"
+    ],
+    "css": [
+      "assets/entries/pages/Vildskud.svelte-a2e8cf1c.css"
+    ]
+  },
+  "_index-e03aaaec.js": {
+    "file": "chunks/index-e03aaaec.js"
+  },
+  "_stores-5fe3ad3b.js": {
+    "file": "chunks/stores-5fe3ad3b.js",
+    "imports": [
+      "_index-e03aaaec.js"
+    ]
+  },
+  "_Header_2-410e04a3.js": {
+    "file": "chunks/Header_2-410e04a3.js",
+    "imports": [
+      "_index-e03aaaec.js",
+      "_stores-5fe3ad3b.js"
+    ],
+    "css": [
+      "assets/Header_2-e01ad4d2.css"
+    ]
+  }
+}
