@@ -16,11 +16,7 @@
       "src/routes/Footer.svelte"
     ],
     "css": [
-<<<<<<< HEAD
-      "assets/entries/pages/__layout.svelte-377a8b53.css"
-=======
-      "assets/entries/pages/__layout.svelte-ad6c5ca6.css"
->>>>>>> 0087e27124614cac82f0f4c384439459ae47f56b
+      "assets/entries/pages/__layout.svelte-29f5df7a.css"
     ]
   },
   "src/routes/Footer.svelte": {
