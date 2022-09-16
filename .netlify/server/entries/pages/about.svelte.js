@@ -28,12 +28,12 @@ __export(stdin_exports, {
   router: () => router
 });
 var import_index_e03aaaec = require("../../chunks/index-e03aaaec.js");
-var import_Header_2_bca29771 = require("../../chunks/Header_2-bca29771.js");
+var import_Header_2_410e04a3 = require("../../chunks/Header_2-410e04a3.js");
 var import_stores_5fe3ad3b = require("../../chunks/stores-5fe3ad3b.js");
-const hydrate = import_Header_2_bca29771.d;
-const router = import_Header_2_bca29771.b;
+const hydrate = import_Header_2_410e04a3.d;
+const router = import_Header_2_410e04a3.b;
 const prerender = true;
 const About = (0, import_index_e03aaaec.c)(($$result, $$props, $$bindings, slots) => {
-  return `${(0, import_index_e03aaaec.v)(import_Header_2_bca29771.H, "Header").$$render($$result, {}, {}, {})}`;
+  return `${(0, import_index_e03aaaec.v)(import_Header_2_410e04a3.H, "Header").$$render($$result, {}, {}, {})}`;
 });
 module.exports = __toCommonJS(stdin_exports);

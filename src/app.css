@@ -2,13 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 @layer base {
-	@font-face {
+	/* @font-face {
 		font-family: 'hey august';
 		src: local('hey august'), local('hey august'), local('hey august'), local('hey august'),
 			url('/fonts/hey august/Hey August.otf');
 		font-weight: normal;
 		font-display: swap;
-	}
+	} */
 	body {
 		background: #fefefe;
 		padding-bottom: 0.2rem;
