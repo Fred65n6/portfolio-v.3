@@ -2,9 +2,10 @@
 	<div class="text-center">
 		<h2>Don't be a stranger 🤗</h2>
 		<p>
-			Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br /> Voluptate ipsam commodi, saepe
-			dolores natus velit.
+			Thanks for having a look at my portfolio! <br /> If you saw something interesting or just want
+			to chat about.... well, anything! <br /> I always appreciate being contacted. <br /> <br />
 		</p>
+		<h2 class="text-xl">Have a nice day!</h2>
 	</div>
 
 	<div class="buttons">
@@ -47,11 +48,11 @@
 		border-left: solid 2px #42506b;
 		border-right: solid 2px #42506b;
 		display: grid;
-		text-align: center;
+		text-align: left;
 	}
 
 	.buttons {
-		margin-top: 5rem;
+		margin-top: 3rem;
 		display: grid;
 		gap: 3rem;
 		padding-bottom: 3rem;

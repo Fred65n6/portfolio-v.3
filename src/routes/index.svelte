@@ -32,11 +32,9 @@
 				<h4>Fall 2022</h4>
 				<h2>The make!mpact app</h2>
 				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint minus saepe qui ex facilis
-					ipsa dolorem eum, maiores quas maxime? Adipisci cumque magnam fugit ratione excepturi
-					ipsum reiciendis nulla beatae soluta exercitationem praesentium dolorum sapiente ea alias
-					perferendis a, nemo quas. Architecto aliquid nobis repellat cum mollitia quidem nostrum
-					veritatis!
+					How do we make an investments platform for the new generation of investors? And exactly
+					how do we make sustainablity data accesible and understanable for people, with no former
+					experience in impact investment?
 				</p>
 			</div>
 			<div class="">
@@ -51,10 +49,7 @@
 				<div class="m-10 ">
 					<h4>Summer 2022</h4>
 					<h2>Nørrebro bryghus</h2>
-					<p>
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint minus saepe qui ex facilis
-						ipsa dolorem eum, maiores quas maxime?
-					</p>
+					<p>How do we take a very page-heavy website and make it more manageable for the user?</p>
 				</div>
 				<div class="">
 					<img src="Mask Group 9.webp" alt="nørrebro bryhus øl" />
@@ -68,8 +63,8 @@
 					<h4>Spring 2022</h4>
 					<h2>Vildskud festival</h2>
 					<p>
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint minus saepe qui ex facilis
-						ipsa dolorem eum, maiores quas maxime?
+						Is it possible to make an exciting website for a theater festival, while also keeping
+						the websites environmental impact as low as possible?
 					</p>
 				</div>
 				<div class="">
@@ -85,11 +80,8 @@
 				<h4>Winter 2021</h4>
 				<h2>TOAST no.9</h2>
 				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint minus saepe qui ex facilis
-					ipsa dolorem eum, maiores quas maxime? Adipisci cumque magnam fugit ratione excepturi
-					ipsum reiciendis nulla beatae soluta exercitationem praesentium dolorum sapiente ea alias
-					perferendis a, nemo quas. Architecto aliquid nobis repellat cum mollitia quidem nostrum
-					veritatis!
+					How do you take one of the funniest and craziest cafés in copenhagen, and translate that
+					vibe into a webpage, which also as all the functionalities of a modern day webshop?
 				</p>
 			</div>
 			<div>
@@ -104,11 +96,13 @@
 	<div class="m-10 ">
 		<h2>About me</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint minus saepe qui ex facilis ipsa
-			dolorem eum, maiores quas maxime? Adipisci cumque magnam fugit ratione excepturi ipsum
-			reiciendis nulla beatae soluta exercitationem praesentium dolorum sapiente ea alias
-			perferendis a, nemo quas. Architecto aliquid nobis repellat cum mollitia quidem nostrum
-			veritatis!
+			Ever since i was a young boy, I've always imagined that I would be working with something
+			creative. At a very young age I fell in love with drawing. 🖍️ I drew cartoon figures and
+			funnny animals. Later on that passion transpired in to a love for playing and making music. 🎸
+			These passions still follow me to this day, but there's just been added one on top, which is
+			UI/UX and graphic design! ❤️ Doing graphic design as well as webpages and apps, allows me to
+			be playfull and creative, while also doing something that are really helpfull to others! And
+			fot me that is a win/win 🏆
 		</p>
 	</div>
 	<div class="">
