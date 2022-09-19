@@ -65,6 +65,17 @@
 	<img src="Mask Group 25.webp" alt="m! app" />
 </section>
 
+<!-- <div class="knap-kasse">
+	<div class="knap">
+		<a
+			target="blank"
+			href="https://xd.adobe.com/view/517c9b01-fdac-4f02-90d8-4c3ff1f828ff-042f/?fullscreen"
+		>
+			Explore the prototype
+		</a>
+	</div>
+</div> -->
+
 <Header />
 
 <style>
@@ -85,6 +96,27 @@
 
 	a:hover {
 		background-color: #e45a5a;
+	}
+
+	.knap-kasse {
+		display: grid;
+		place-content: center;
+		margin: 0 auto;
+	}
+
+	.knap {
+		color: #42506b;
+		border: solid 3px #42506b;
+		padding-block: 1rem;
+		font-weight: 900;
+		padding-inline: 2rem;
+	}
+
+	.knap:hover {
+		background-color: #e45a5a;
+		color: white;
+		border: solid 3px white;
+		transition: ease-in(1s);
 	}
 
 	.content {
