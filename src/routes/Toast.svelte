@@ -18,7 +18,7 @@
 <section class="header">
 	<h4>Winter 2021</h4>
 	<h2>Toast no.9</h2>
-	<img src="Mask Group 29.png" alt="m! app" />
+	<img src="Mask Group 29.webp" alt="m! app" />
 </section>
 <section class="content">
 	<div class="">

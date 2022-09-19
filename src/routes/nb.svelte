@@ -18,7 +18,7 @@
 <section class="header">
 	<h4>Summer 2022</h4>
 	<h2>Nørrebro bryghus</h2>
-	<img src="Mask Group 27.png" alt="m! app" />
+	<img src="Mask Group 27.webp" alt="m! app" />
 </section>
 <section class="content">
 	<div class="">
@@ -35,7 +35,7 @@
 	<img src="Group 66.svg" alt="m! app" />
 </section>
 <section class="content">
-	<img src="kelly-sikkema-0iKjge_aOVo-unsplash.png" alt="m! app" />
+	<img src="kelly-sikkema-0iKjge_aOVo-unsplash.webp" alt="m! app" />
 	<div class="">
 		<h2>Information architecture</h2>
 		<p>
@@ -58,7 +58,7 @@
 			inventore. Culpa.
 		</p>
 	</div>
-	<img src="Mask Group 9.png" alt="m! app" />
+	<img src="Mask Group 9.webp" alt="m! app" />
 </section>
 
 <Header />

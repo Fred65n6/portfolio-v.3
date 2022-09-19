@@ -40,7 +40,7 @@
 				</p>
 			</div>
 			<div class="">
-				<img src="Mask Group 25.png" alt="m! app" />
+				<img src="Mask Group 25.webp" alt="m! app" />
 			</div>
 		</section>
 	</a>
@@ -57,7 +57,7 @@
 					</p>
 				</div>
 				<div class="">
-					<img src="Mask Group 9.png" alt="nørrebro bryhus øl" />
+					<img src="Mask Group 9.webp" alt="nørrebro bryhus øl" />
 				</div>
 			</div>
 		</a>
@@ -112,7 +112,7 @@
 			</p>
 		</div>
 		<div class="">
-			<img src="Mask Group 11.png" alt="Billede af Frederik Milland" />
+			<img src="Mask Group 11.webp" alt="Billede af Frederik Milland" />
 		</div>
 	</section>
 </a>

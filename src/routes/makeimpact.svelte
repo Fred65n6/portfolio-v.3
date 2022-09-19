@@ -20,7 +20,7 @@
 		<h4>Fall 2022</h4>
 
 		<h2>The make!mpact app</h2>
-		<img src="Mask Group 26.png" alt="m! app" />
+		<img src="Mask Group 26.webp" alt="m! app" />
 	</section>
 </a>
 
@@ -35,11 +35,11 @@
 			inventore. Culpa.
 		</p>
 	</div>
-	<img src="Group 58.png" alt="m! app" />
+	<img src="Group 58.webp" alt="m! app" />
 </section>
 
 <section class="content">
-	<img src="Group 13.png" alt="m! app" />
+	<img src="Group 13.webp" alt="m! app" />
 	<div class="">
 		<h2>Keeping track</h2>
 		<p>
@@ -62,7 +62,7 @@
 			inventore. Culpa.
 		</p>
 	</div>
-	<img src="Mask Group 25.png" alt="m! app" />
+	<img src="Mask Group 25.webp" alt="m! app" />
 </section>
 
 <Header />

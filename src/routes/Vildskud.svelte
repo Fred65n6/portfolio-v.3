@@ -18,7 +18,7 @@
 <section class="header">
 	<h4>Spring 2022</h4>
 	<h2>Vildskud festival</h2>
-	<img src="Mask Group 28.png" alt="m! app" />
+	<img src="Mask Group 28.webp" alt="m! app" />
 </section>
 <section class="content">
 	<div class="">
@@ -34,7 +34,7 @@
 	<!-- <img class="" src="earth-leaf-24-filled.svg" alt="m! app" /> -->
 </section>
 <section class="content">
-	<img src="Group 68.png" alt="m! app" />
+	<img src="Group 68.webp" alt="m! app" />
 	<div class="">
 		<h2>Redefining the logo</h2>
 		<p>
