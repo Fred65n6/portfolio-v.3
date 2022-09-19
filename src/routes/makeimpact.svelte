@@ -15,11 +15,15 @@
 	import Header from '$lib/header/Header_2.svelte';
 </script>
 
-<section class="header">
-	<h4>Fall 2022</h4>
-	<h2>The make!mpact app</h2>
-	<img src="Mask Group 26.png" alt="m! app" />
-</section>
+<a href="https://xd.adobe.com/view/517c9b01-fdac-4f02-90d8-4c3ff1f828ff-042f/?fullscreen">
+	<section class="header">
+		<h4>Fall 2022</h4>
+
+		<h2>The make!mpact app</h2>
+		<img src="Mask Group 26.png" alt="m! app" />
+	</section>
+</a>
+
 <section class="content">
 	<div class="">
 		<h2>Where we started</h2>
@@ -33,6 +37,7 @@
 	</div>
 	<img src="Group 58.png" alt="m! app" />
 </section>
+
 <section class="content">
 	<img src="Group 13.png" alt="m! app" />
 	<div class="">
@@ -74,11 +79,16 @@
 	}
 
 	.header img {
-		padding: 4rem;
+		padding: 3rem;
+		width: 38rem;
+	}
+
+	a:hover {
+		background-color: #e45a5a;
 	}
 
 	.content {
-		padding: 2rem;
+		padding: 3rem;
 		width: 97vw;
 		display: grid;
 		justify-items: center;

@@ -31,13 +31,14 @@
 	header {
 		max-width: 97vw;
 		position: fixed;
+		z-index: 1;
 		display: flex;
 		justify-content: space-between;
 		top: 0;
 		z-index: 3;
 		width: 100%;
 		border: solid 2px #42506b;
-		padding: 5px;
+		padding-inline: 30px;
 		align-items: center;
 		background: #fefefe;
 	}
@@ -49,7 +50,7 @@
 
 	.corner img {
 		filter: invert(1);
-		height: 1.5rem;
+		height: 1.4rem;
 	}
 
 	a:hover {
