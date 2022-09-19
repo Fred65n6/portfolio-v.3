@@ -99,24 +99,24 @@
 	</a>
 </section>
 
-<a sveltekit:prefetch href="/about">
-	<section id="about-me" class="about">
-		<div class="m-10 ">
-			<h2>About me</h2>
-			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint minus saepe qui ex facilis
-				ipsa dolorem eum, maiores quas maxime? Adipisci cumque magnam fugit ratione excepturi ipsum
-				reiciendis nulla beatae soluta exercitationem praesentium dolorum sapiente ea alias
-				perferendis a, nemo quas. Architecto aliquid nobis repellat cum mollitia quidem nostrum
-				veritatis!
-			</p>
-		</div>
-		<div class="">
-			<img src="Mask Group 11.webp" alt="Billede af Frederik Milland" />
-		</div>
-	</section>
-</a>
+<!-- <a sveltekit:prefetch href="/about"> -->
+<section id="about-me" class="about">
+	<div class="m-10 ">
+		<h2>About me</h2>
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint minus saepe qui ex facilis ipsa
+			dolorem eum, maiores quas maxime? Adipisci cumque magnam fugit ratione excepturi ipsum
+			reiciendis nulla beatae soluta exercitationem praesentium dolorum sapiente ea alias
+			perferendis a, nemo quas. Architecto aliquid nobis repellat cum mollitia quidem nostrum
+			veritatis!
+		</p>
+	</div>
+	<div class="">
+		<img src="Mask Group 11.webp" alt="Billede af Frederik Milland" />
+	</div>
+</section>
 
+<!-- </a> -->
 <style>
 	.hero {
 		padding-top: 3rem;
