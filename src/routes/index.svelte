@@ -81,7 +81,7 @@
 				<h2>TOAST no.9</h2>
 				<p>
 					How do you take one of the funniest and craziest cafés in copenhagen, and translate that
-					vibe into a webpage, which also as all the functionalities of a modern day webshop?
+					vibe into a webpage, which also has all the functionalities of a modern day webshop?
 				</p>
 			</div>
 			<div>
