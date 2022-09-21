@@ -61,7 +61,7 @@
 		</div>
 		<img src="stk_3.svg" alt="m! app" />
 	</div>
-	<div class="m-8 grid place-items-center">
+	<div class="m-8 mt-24 grid place-items-center">
 		<div class="knap-kasse">
 			<div class="knap">
 				<a target="blank" href="https://vildskud.netlify.app/"> Visit the site </a>
@@ -88,17 +88,13 @@
 		width: 38rem;
 	}
 
-	a:hover {
-		background-color: #e45a5a;
-	}
-
 	.knap-kasse {
 		display: grid;
 		place-content: center;
 		margin: 0 auto;
 	}
 
-	.knap {
+	a {
 		color: #42506b;
 		border: solid 3px #42506b;
 		padding-block: 1rem;
@@ -106,7 +102,7 @@
 		padding-inline: 2rem;
 	}
 
-	.knap:hover {
+	a:hover {
 		background-color: #e45a5a;
 		color: white;
 		border: solid 3px white;

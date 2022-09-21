@@ -65,7 +65,7 @@
 		</div>
 	</div>
 
-	<div class="grid place-items-center m-8">
+	<div class="grid place-items-center m-8 mt-24 ">
 		<div class="knap-kasse">
 			<div class="knap">
 				<a target="blank" href="https://nb-bryghus.netlify.app/"> Visit the site </a>
@@ -92,17 +92,13 @@
 		width: 38rem;
 	}
 
-	a:hover {
-		background-color: #e45a5a;
-	}
-
 	.knap-kasse {
 		display: grid;
 		place-content: center;
 		margin: 0 auto;
 	}
 
-	.knap {
+	a {
 		color: #42506b;
 		border: solid 3px #42506b;
 		padding-block: 1rem;
@@ -110,7 +106,7 @@
 		padding-inline: 2rem;
 	}
 
-	.knap:hover {
+	a:hover {
 		background-color: #e45a5a;
 		color: white;
 		border: solid 3px white;
