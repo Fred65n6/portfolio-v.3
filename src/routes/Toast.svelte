@@ -46,18 +46,28 @@
 		</p>
 	</div>
 </section>
-<section class="content">
-	<div class="">
-		<h2>The make!mpact app</h2>
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-			autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus, voluptatum.
-			Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem temporibus sit
-			quaerat impedit exercitationem animi labore unde eveniet architecto ratione, tempora magni
-			inventore. Culpa.
-		</p>
+
+<section class="content-2">
+	<div class="md:grid md:grid-cols-2">
+		<div class="">
+			<h2>Bringing the café to life</h2>
+			<p>
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
+				autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus,
+				voluptatum. Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem
+				temporibus sit quaerat impedit exercitationem animi labore unde eveniet architecto ratione,
+				tempora magni inventore. Culpa.
+			</p>
+		</div>
+		<img src="Group 69.svg" alt="m! app" />
 	</div>
-	<img src="Group 69.svg" alt="m! app" />
+	<div class="m-8 grid place-items-center">
+		<div class="knap-kasse">
+			<div class="knap">
+				<a target="blank" href="https://skuret.eu/kea/toastno9/"> Visit the site </a>
+			</div>
+		</div>
+	</div>
 </section>
 
 <Header />
@@ -74,14 +84,41 @@
 	}
 
 	.header img {
-		padding: 4rem;
+		padding: 3rem;
+		width: 38rem;
+	}
+
+	a:hover {
+		background-color: #e45a5a;
+	}
+
+	.knap-kasse {
+		display: grid;
+		place-content: center;
+		margin: 0 auto;
+	}
+
+	.knap {
+		color: #42506b;
+		border: solid 3px #42506b;
+		padding-block: 1rem;
+		font-weight: 900;
+		padding-inline: 2rem;
+	}
+
+	.knap:hover {
+		background-color: #e45a5a;
+		color: white;
+		border: solid 3px white;
+		transition: ease-in(1s);
 	}
 
 	.content {
-		padding: 5rem;
+		padding: 3rem;
 		width: 97vw;
 		display: grid;
 		justify-items: center;
+		place-items: center;
 		border-bottom: solid 2px #42506b;
 		border-left: solid 2px #42506b;
 		border-right: solid 2px #42506b;
@@ -89,6 +126,23 @@
 
 	.content img {
 		padding-block: 4rem;
+		max-width: 350px;
+	}
+
+	.content-2 {
+		padding: 3rem;
+		width: 97vw;
+		display: grid;
+		justify-items: center;
+		place-items: center;
+		border-bottom: solid 2px #42506b;
+		border-left: solid 2px #42506b;
+		border-right: solid 2px #42506b;
+	}
+
+	.content-2 img {
+		padding-block: 4rem;
+		max-width: 350px;
 	}
 
 	@media (min-width: 600px) {
@@ -104,6 +158,12 @@
 		.content img {
 			max-width: 450px;
 			padding-block: 0rem;
+		}
+
+		.content-2 img {
+			max-width: 450px;
+			padding-block: 0rem;
+			margin-left: 8rem;
 		}
 	}
 </style>

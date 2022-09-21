@@ -15,14 +15,12 @@
 	import Header from '$lib/header/Header_2.svelte';
 </script>
 
-<a href="https://xd.adobe.com/view/517c9b01-fdac-4f02-90d8-4c3ff1f828ff-042f/?fullscreen">
-	<section class="header">
-		<h4>Fall 2022</h4>
+<section class="header">
+	<h4>Fall 2022</h4>
 
-		<h2>The make!mpact app</h2>
-		<img src="Mask Group 26.webp" alt="m! app" />
-	</section>
-</a>
+	<h2>The make!mpact app</h2>
+	<img src="Mask Group 26.webp" alt="m! app" />
+</section>
 
 <section class="content">
 	<div class="">
@@ -51,30 +49,33 @@
 		</p>
 	</div>
 </section>
-<section class="content">
-	<div class="">
-		<h2>The make!mpact app</h2>
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-			autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus, voluptatum.
-			Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem temporibus sit
-			quaerat impedit exercitationem animi labore unde eveniet architecto ratione, tempora magni
-			inventore. Culpa.
-		</p>
+<section class="content-2">
+	<div class="md:grid md:grid-cols-2">
+		<div class="">
+			<h2>The make!mpact app</h2>
+			<p>
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
+				autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus,
+				voluptatum. Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem
+				temporibus sit quaerat impedit exercitationem animi labore unde eveniet architecto ratione,
+				tempora magni inventore. Culpa.
+			</p>
+		</div>
+		<img src="Mask Group 25.webp" alt="m! app" />
 	</div>
-	<img src="Mask Group 25.webp" alt="m! app" />
+	<div class="m-8 grid place-items-center">
+		<div class="knap-kasse">
+			<div class="knap">
+				<a
+					target="blank"
+					href="https://xd.adobe.com/view/517c9b01-fdac-4f02-90d8-4c3ff1f828ff-042f/?fullscreen"
+				>
+					Explore the prototype
+				</a>
+			</div>
+		</div>
+	</div>
 </section>
-
-<!-- <div class="knap-kasse">
-	<div class="knap">
-		<a
-			target="blank"
-			href="https://xd.adobe.com/view/517c9b01-fdac-4f02-90d8-4c3ff1f828ff-042f/?fullscreen"
-		>
-			Explore the prototype
-		</a>
-	</div>
-</div> -->
 
 <Header />
 
@@ -135,6 +136,22 @@
 		max-width: 350px;
 	}
 
+	.content-2 {
+		padding: 3rem;
+		width: 97vw;
+		display: grid;
+		justify-items: center;
+		place-items: center;
+		border-bottom: solid 2px #42506b;
+		border-left: solid 2px #42506b;
+		border-right: solid 2px #42506b;
+	}
+
+	.content-2 img {
+		padding-block: 4rem;
+		max-width: 350px;
+	}
+
 	@media (min-width: 600px) {
 		.content {
 			grid-template-columns: 1fr 1fr;
@@ -148,6 +165,12 @@
 		.content img {
 			max-width: 450px;
 			padding-block: 0rem;
+		}
+
+		.content-2 img {
+			max-width: 450px;
+			padding-block: 0rem;
+			margin-left: 8rem;
 		}
 	}
 </style>
