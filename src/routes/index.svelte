@@ -96,13 +96,13 @@
 	<div class="m-10 ">
 		<h2>About me</h2>
 		<p>
-			Ever since i was a young boy, I've always imagined that I would be working with something
+			Ever since i was a young boy, I always imagined that I would be working with something
 			creative. At a very young age I fell in love with drawing. 🖍️ I drew cartoon figures and
 			funnny animals. Later on that passion transpired in to a love for playing and making music. 🎸
-			These passions still follow me to this day, but there's just been added one on top, which is
-			UI/UX and graphic design! ❤️ Doing graphic design as well as webpages and apps, allows me to
-			be playfull and creative, while also doing something that are really helpfull to others! And
-			fot me that is a win/win 🏆
+			These passions still follow me to this day, but now there has just been added one more on top.
+			That passion is UI/UX- and graphic design! ❤️ Doing graphic design as well as webpages and
+			apps, allows me to be playfull and creative, while also doing something that is really
+			helpfull to others! And fot me that is a win/win 🏆
 		</p>
 	</div>
 	<div class="">
