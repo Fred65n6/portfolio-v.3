@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>Frederik Milland</title>
+	<title>Frederik Milland: UI/UX Designer</title>
 </svelte:head>
 
 <Header />

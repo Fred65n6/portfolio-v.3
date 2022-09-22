@@ -18,31 +18,29 @@
 <section class="header">
 	<h4>Spring 2022</h4>
 	<h2>Vildskud festival</h2>
+	<p class="-m-4 font-medium">(Group project)</p>
 	<img src="Mask Group 28.webp" alt="m! app" />
 </section>
 <section class="content">
 	<div class="">
 		<h2>Designing for sustainability</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-			autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus, voluptatum.
-			Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem temporibus sit
-			quaerat impedit exercitationem animi labore unde eveniet architecto ratione, tempora magni
-			inventore. Culpa.
+			The big obstacle in this project, was keeping the amount of energy needed to display this
+			website, as low as possible, while also promoting a theatre festival. In our group we decided
+			to go all out on this, so we decided not to use any .jpg, .png, animations or videos. 🤨
 		</p>
 	</div>
-	<!-- <img class="" src="earth-leaf-24-filled.svg" alt="m! app" /> -->
+	<img class="w-52" src="earth-leaf-24-filled.svg" alt="m! app" />
 </section>
 <section class="content">
 	<img src="Group 68.webp" alt="m! app" />
 	<div class="">
 		<h2>Redefining the logo</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-			autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus, voluptatum.
-			Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem temporibus sit
-			quaerat impedit exercitationem animi labore unde eveniet architecto ratione, tempora magni
-			inventore. Culpa.
+			the exsisting logo for the festival, only existed in a picture format, which of course didn't
+			allign with our visions for this webdesign. So i started sketching a new logo for the
+			festival. I tried to keep the main features, while also simplifying the logo, so it would be
+			easier to use in all sizes and platforms. ❣️
 		</p>
 	</div>
 </section>
@@ -50,13 +48,13 @@
 <section class="content-2">
 	<div class="md:grid md:grid-cols-2">
 		<div class="">
-			<h2>Show it, don't tell it</h2>
+			<h2>Working around the posters</h2>
 			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-				autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus,
-				voluptatum. Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem
-				temporibus sit quaerat impedit exercitationem animi labore unde eveniet architecto ratione,
-				tempora magni inventore. Culpa.
+				So we're promoting a theatre festival, and all the different plays have some great posters
+				made, but again that doesn't really allign with the purpose of this website, so what can we
+				do? What we did was to outline the posters, and then using that graphic to display the
+				different plays posters. Maybe not the most telling way to display a play, but again,
+				sustainability was the main focus of this project. 🌿
 			</p>
 		</div>
 		<img src="stk_3.svg" alt="m! app" />

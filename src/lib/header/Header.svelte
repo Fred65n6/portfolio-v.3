@@ -4,12 +4,11 @@
 
 <header>
 	<nav>
-		<div class="" />
-		<!-- <div class="corner">
-			<a sveltekit:prefetch href="/">
+		<div class="corner">
+			<!-- <a sveltekit:prefetch href="/">
 				<img class="hover:pulsate-fwd" src="./FM.svg" alt="SvelteKit" />
-			</a>
-		</div> -->
+			</a> -->
+		</div>
 
 		<div class="desktop-menu">
 			<ul>

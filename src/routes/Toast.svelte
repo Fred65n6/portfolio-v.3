@@ -18,17 +18,18 @@
 <section class="header">
 	<h4>Winter 2021</h4>
 	<h2>Toast no.9</h2>
+	<p class="-m-4 font-medium">(Group project)</p>
 	<img src="Mask Group 29.webp" alt="m! app" />
 </section>
 <section class="content">
 	<div class="">
 		<h2>Designing a logo</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-			autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus, voluptatum.
-			Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem temporibus sit
-			quaerat impedit exercitationem animi labore unde eveniet architecto ratione, tempora magni
-			inventore. Culpa.
+			So we a have cool café, we have a great product... what are we missing? a logo! One of the
+			first thing I did while working with Toast no.9 was designing a logo which would also set the
+			tone for the upcomming webdesign. The owner of Toast no.9 told us that he loves everything
+			nineties! And what was huge thing in the nineties? MTV! So inspired by the MTV logo, I came up
+			with this logo design for toast no.9. ✏️
 		</p>
 	</div>
 	<img src="Group 64.svg" alt="m! app" />
@@ -38,11 +39,9 @@
 	<div class="">
 		<h2>Showing the product <br /> in a new way</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-			autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus, voluptatum.
-			Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem temporibus sit
-			quaerat impedit exercitationem animi labore unde eveniet architecto ratione, tempora magni
-			inventore. Culpa.
+			Like the owner of the café, we wanted to do things a little different with this one. So i
+			started making this drawings of all the different toasts that Toast no.9 has to offer. The
+			owener of the café really loved this playfull way, to display his product. ❤️
 		</p>
 	</div>
 </section>
@@ -52,11 +51,11 @@
 		<div class="">
 			<h2>Bringing the café to life</h2>
 			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-				autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus,
-				voluptatum. Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem
-				temporibus sit quaerat impedit exercitationem animi labore unde eveniet architecto ratione,
-				tempora magni inventore. Culpa.
+				Inspired by what we already did with the drawings of the toasts, we wanted to include the
+				all the different artifacts, that makes this cafés vibe so special, in the webdesign. So I
+				also sketched all the different things around the café, in adobe Illustrator. 📻 <br />
+				<br /> Bonus info: The old man who pops up different places on the site, is actually the owners
+				father in law. See if you can find him! 🔍
 			</p>
 		</div>
 		<img src="Group 69.svg" alt="m! app" />
