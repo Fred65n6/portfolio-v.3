@@ -26,11 +26,10 @@
 	<div class="">
 		<h2>Where we started</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-			autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus, voluptatum.
-			Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem temporibus sit
-			quaerat impedit exercitationem animi labore unde eveniet architecto ratione, tempora magni
-			inventore. Culpa.
+			So when I first started at make!impact, there already was an app. The app had most of the
+			functionalities it has today, but it really missed some of the "make!mpact vibe". The app was
+			very black on white, and without much to treat the users. So the first part of this task was
+			to start prototpying, and comming up with new design ideas. 🤔
 		</p>
 	</div>
 	<img src="Group 58.webp" alt="m! app" />
@@ -41,11 +40,11 @@
 	<div class="">
 		<h2>Keeping track</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-			autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus, voluptatum.
-			Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem temporibus sit
-			quaerat impedit exercitationem animi labore unde eveniet architecto ratione, tempora magni
-			inventore. Culpa.
+			Working with an investment app, there is a lot of different screens and functionalities to
+			keep track with. 😅 Everything has to be connected somehow, and most importantly of all, it
+			HAS to make sense for even the most unexperienced user. In this app we also have a lot of
+			inofrmation on how the companies are performing when it comes to sustainablity and social
+			impact. All this data had to somehow be condensed and understanbale in the app.
 		</p>
 	</div>
 </section>
@@ -54,11 +53,12 @@
 		<div class="">
 			<h2>The make!mpact app</h2>
 			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-				autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus,
-				voluptatum. Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem
-				temporibus sit quaerat impedit exercitationem animi labore unde eveniet architecto ratione,
-				tempora magni inventore. Culpa.
+				After a lot of protoyping and feedback sessions, we ended up with a slick new look app for
+				make!mpact. The design and the app itself caters to young people, who wants to get into
+				investing, and most importantly wants to do sustainable innvestments. <br />
+				The black and pink look gives the app a more fresh and interesting vibe, compared to most conventional
+				investing apps, which are often just black and white and filled with a lot of heavy data as soon
+				as you open the app. Have a look at the protoype and see how you feel about the app. 😊
 			</p>
 		</div>
 		<img src="Mask Group 25.webp" alt="m! app" />

@@ -5,9 +5,9 @@
 <header>
 	<nav>
 		<div class="corner">
-			<a sveltekit:prefetch href="/">
+			<!-- <a sveltekit:prefetch href="/">
 				<img class="hover:pulsate-fwd" src="./FM.svg" alt="SvelteKit" />
-			</a>
+			</a> -->
 		</div>
 
 		<div class="desktop-menu">

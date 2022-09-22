@@ -18,18 +18,18 @@
 <section class="header">
 	<h4>Summer 2022</h4>
 	<h2>Nørrebro bryghus</h2>
+	<p class="-m-4 font-medium">(unsolicited redesign)</p>
 	<img src="Mask Group 27.webp" alt="m! app" />
 </section>
 <section class="content">
 	<div class="">
 		<h2>Visual identity</h2>
-
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-			autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus, voluptatum.
-			Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem temporibus sit
-			quaerat impedit exercitationem animi labore unde eveniet architecto ratione, tempora magni
-			inventore. Culpa.
+			Working with Nørrebro Bryghus, means working with a successfull company which already has a
+			very defined visual identity. So when working with their website, one of the first think we
+			thought we could do, was to incorporate this idenity even more in the webdesign, in order to
+			make a bigger coherence between the brand and their website. That's why we chose to take the
+			flowers from their bottle labels, and make them a main feature of the website. 🌸
 		</p>
 	</div>
 	<img src="Group 66.svg" alt="m! app" />
@@ -39,11 +39,10 @@
 	<div class="">
 		<h2>Information architecture</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-			autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus, voluptatum.
-			Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem temporibus sit
-			quaerat impedit exercitationem animi labore unde eveniet architecto ratione, tempora magni
-			inventore. Culpa.
+			Nørrebro bryghus' website has a lot of pages, like a lot, and through user surveys, we could
+			conclude that the users found it difficult to navigate the website. That's why one of our
+			biggest tasks, working with this website, was the information architecture, and trying to
+			rearrange the navigation, and the way the website was set up. ✍️
 		</p>
 	</div>
 </section>
@@ -53,11 +52,12 @@
 		<div class="">
 			<h2>Product display</h2>
 			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quod totam in alias aliquam
-				autem tempore est voluptatum modi mollitia saepe exercitationem quis? Temporibus,
-				voluptatum. Suscipit debitis, soluta a quos accusamus tempora. Velit voluptas, autem
-				temporibus sit quaerat impedit exercitationem animi labore unde eveniet architecto ratione,
-				tempora magni inventore. Culpa.
+				To finish of this website and the webshop that we build, we wanted to display the products
+				(meaning the beers 🍻) really nice. We weren't able to find good picture material for this.
+				So that's why i created these mock-ups in photoshop, which could show the simple but very
+				beautiful label design of labels. <br />
+				In the end we were really satisfied with the website we managed to create for Nørrebro bryghus.
+				✨
 			</p>
 		</div>
 		<div class="">
