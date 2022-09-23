@@ -4,31 +4,36 @@
 </script>
 
 <svelte:head>
-	<title>Frederik Milland: UI/UX Designer</title>
+	<title>Frederik Milland | UI/UX Designer</title>
 </svelte:head>
 
 <Header />
 
 <section class="hero">
-	<img src="Group 58.svg" alt="hero" />
-	<div class="hero-text">
-		<h3>Hi i'm</h3>
-		<h1 class="">
-			FREDERIK <br />
-			MILLAND
-		</h1>
-		<h3>
-			a UX / UI designer and problem solver 🔧 <br />
+	<!-- <img src="Group 58.svg" alt="hero" /> -->
+
+	<img class="mobil-hero w-full" src="Group 58.svg" alt="" />
+
+	<div class="hero-text ">
+		<div class="md:h-52" />
+		<h1 class="my-20 md:-ml-24">
+			Hi there, i'm <span class="font-semibold tracking-in-expand-fwd">Frederik Milland!</span>
+			<br />
+
+			a UX / UI designer and problem solver 🔧<br />
 			who's creating user friendly design solutions 🏵️<br />
 			from beautiful Copenhagen🌇
-		</h3>
+		</h1>
+	</div>
+	<div class="desktop-hero">
+		<img class="" src="Group 76.svg" alt="" />
 	</div>
 </section>
 
 <section id="portfolio">
 	<a sveltekit:prefetch href="/makeimpact">
 		<section class="makeimpact ">
-			<div class="m-10 ">
+			<div class="md:m-10 mx-10">
 				<h4>Fall 2022</h4>
 				<h2>The make!mpact app</h2>
 				<p>
@@ -37,7 +42,7 @@
 					experience in impact investment?
 				</p>
 			</div>
-			<div class="">
+			<div class="pt-8 md:pt-0">
 				<img src="Mask Group 25.webp" alt="m! app" />
 			</div>
 		</section>
@@ -46,12 +51,12 @@
 	<section class="double-section">
 		<a sveltekit:prefetch href="/nb">
 			<div class="nb">
-				<div class="m-10 ">
+				<div class="ml-10  mx-20">
 					<h4>Summer 2022</h4>
 					<h2>Nørrebro bryghus</h2>
 					<p>How do we take a very page-heavy website and make it more manageable for the user?</p>
 				</div>
-				<div class="">
+				<div class="pt-12">
 					<img src="Mask Group 9.webp" alt="nørrebro bryhus øl" />
 				</div>
 			</div>
@@ -59,7 +64,7 @@
 
 		<a sveltekit:prefetch href="/Vildskud">
 			<div class="vildskud">
-				<div class="m-10 ">
+				<div class="ml-10  mx-10">
 					<h4>Spring 2022</h4>
 					<h2>Vildskud festival</h2>
 					<p>
@@ -67,7 +72,7 @@
 						the websites environmental impact as low as possible?
 					</p>
 				</div>
-				<div class="">
+				<div class="pt-12">
 					<img class="w-56" src="Group 63.svg" alt="vildskud logo" />
 				</div>
 			</div>
@@ -76,7 +81,7 @@
 
 	<a sveltekit:prefetch href="/Toast">
 		<section class="toast ">
-			<div class="m-10 ">
+			<div class="md:m-10  mx-10 ">
 				<h4>Winter 2021</h4>
 				<h2>TOAST no.9</h2>
 				<p>
@@ -93,7 +98,7 @@
 
 <!-- <a sveltekit:prefetch href="/about"> -->
 <section id="about-me" class="about">
-	<div class="m-10 ">
+	<div class="md:m-10 mx-10 ">
 		<h2>About me</h2>
 		<p>
 			Ever since i was a young boy, I always imagined that I would be working with something
@@ -113,28 +118,35 @@
 <!-- </a> -->
 <style>
 	.hero {
-		padding-top: 3rem;
 		width: 100%;
 		display: grid;
 		place-items: center;
-		text-align: center;
+		text-align: left;
 		border: solid 2px #42506b;
 	}
 
 	.hero img {
-		max-width: 110%;
+		max-width: 100%;
 	}
 
-	.hero-text {
-		padding-block: 6rem;
-		margin-top: -4rem;
+	.desktop-hero {
+		display: none;
 	}
+
+	/* .hero img {
+		max-width: 110%;
+	} */
+
+	/* .hero-text {
+		padding-block: 6rem;
+		padding-top: 8rem;
+	} */
 
 	img {
 		max-width: 350px;
 	}
 	.makeimpact {
-		padding-block: 2rem;
+		padding-block: 4rem;
 		width: 100%;
 		border-bottom: solid 2px #42506b;
 		border-left: solid 2px #42506b;
@@ -172,7 +184,7 @@
 
 	.vildskud {
 		display: grid;
-		padding-block: 2rem;
+		padding-block: 4rem;
 		place-items: center;
 		width: 100%;
 		border-bottom: solid 2px #42506b;
@@ -211,7 +223,7 @@
 	}
 
 	.toast {
-		padding-block: 2rem;
+		padding-block: 4rem;
 		width: 100%;
 		border-bottom: solid 2px #42506b;
 		border-left: solid 2px #42506b;
@@ -234,7 +246,7 @@
 	}
 
 	.about {
-		padding-block: 2rem;
+		padding-block: 4rem;
 		width: 100%;
 		border-bottom: solid 2px #42506b;
 		border-left: solid 2px #42506b;
@@ -255,17 +267,28 @@
 
 	@media (min-width: 600px) {
 		.hero {
-			padding-top: 0rem;
+			grid-template-columns: 1fr 1fr;
+		}
+
+		.mobil-hero {
+			display: none;
+		}
+
+		.desktop-hero {
+			display: block;
 		}
 
 		.hero-text {
-			padding-block: 1.2rem;
 			margin-top: -11rem;
-			margin-bottom: 1.5rem;
 		}
 
 		img {
 			max-width: 450px;
+		}
+
+		.hero img {
+			max-width: 100%;
+			max-height: 100%;
 		}
 
 		.makeimpact {

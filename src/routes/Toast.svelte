@@ -15,6 +15,8 @@
 	import Header from '$lib/header/Header_2.svelte';
 </script>
 
+<Header />
+
 <section class="header">
 	<h4>Winter 2021</h4>
 	<h2>Toast no.9</h2>
@@ -69,17 +71,14 @@
 	</div>
 </section>
 
-<Header />
-
 <style>
 	.header {
 		width: 97vw;
 		padding-top: 6rem;
 		display: grid;
 		place-items: center;
-		border-bottom: solid 2px #42506b;
-		border-left: solid 2px #42506b;
-		border-right: solid 2px #42506b;
+
+		border: solid 2px #42506b;
 	}
 
 	.header img {

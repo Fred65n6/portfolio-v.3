@@ -4,11 +4,11 @@
 
 <header>
 	<nav>
-		<div class="corner">
+		<!-- <div class="corner">
 			<!-- <a sveltekit:prefetch href="/">
 				<img class="hover:pulsate-fwd" src="./FM.svg" alt="SvelteKit" />
 			</a> -->
-		</div>
+		<!-- </div> -->
 
 		<div class="desktop-menu">
 			<ul>
@@ -19,7 +19,7 @@
 					<a sveltekit:prefetch href="/">Portfolio</a>
 				</li>
 				<li class:active={$page.url.pathname === '/'}>
-					<a sveltekit:prefetch href="/">ABOUT ME</a>
+					<a sveltekit:prefetch href="/">about me</a>
 				</li>
 			</ul>
 		</div>
@@ -30,14 +30,16 @@
 	/* @media (min-width: 650px) { */
 	header {
 		max-width: 97vw;
-		position: fixed;
+		position: sticky;
 		z-index: 1;
 		display: flex;
-		justify-content: space-between;
+		justify-content: space-evenly;
 		top: 0;
 		z-index: 3;
 		width: 100%;
-		border: solid 2px #42506b;
+		border-top: solid 2px #42506b;
+		border-left: solid 2px #42506b;
+		border-right: solid 2px #42506b;
 		padding-inline: 30px;
 		align-items: center;
 		background: #fefefe;
@@ -45,7 +47,7 @@
 
 	nav {
 		display: flex;
-		justify-content: space-between;
+		justify-content: space-evenly;
 	}
 
 	.corner img {
@@ -71,6 +73,7 @@
 		align-items: center;
 		list-style: none;
 		background-size: contain;
+		gap: 20px;
 	}
 
 	nav a {
