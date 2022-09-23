@@ -20,7 +20,7 @@
 			Hi there, i'm <span class="font-semibold tracking-in-expand-fwd">Frederik Milland!</span>
 			<br />
 
-			a UX / UI designer and problem solver 🔧<br />
+			a UI / UX designer and problem solver 🔧<br />
 			who's creating user friendly design solutions 🏵️<br />
 			from beautiful Copenhagen🌇
 		</h1>
