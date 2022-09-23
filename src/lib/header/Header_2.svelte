@@ -4,11 +4,11 @@
 
 <header>
 	<nav>
-		<!-- <div class="corner">
-			<!-- <a sveltekit:prefetch href="/">
-				<img class="hover:pulsate-fwd" src="./FM.svg" alt="SvelteKit" />
-			</a> -->
-		<!-- </div> -->
+		<div class="corner hover:pulsate-fwd ">
+			<a sveltekit:prefetch href="/">
+				<p class="font-medium text-black">FM</p>
+			</a>
+		</div>
 
 		<div class="desktop-menu">
 			<ul>
@@ -16,10 +16,10 @@
 					<a sveltekit:prefetch href="/">HOME</a>
 				</li>
 				<li class:active={$page.url.pathname === '/'}>
-					<a sveltekit:prefetch href="/">Portfolio</a>
+					<a sveltekit:prefetch href="/">PORTFOLIO</a>
 				</li>
 				<li class:active={$page.url.pathname === '/'}>
-					<a sveltekit:prefetch href="/">about me</a>
+					<a sveltekit:prefetch href="/">ABOUT ME</a>
 				</li>
 			</ul>
 		</div>
@@ -37,12 +37,19 @@
 		top: 0;
 		z-index: 3;
 		width: 100%;
+		/* border: solid 2px #42506b; */
 		border-top: solid 2px #42506b;
 		border-left: solid 2px #42506b;
 		border-right: solid 2px #42506b;
 		padding-inline: 30px;
 		align-items: center;
 		background: #fefefe;
+	}
+
+	p {
+		font-family: 'recursive';
+		color: #42506b;
+		color: black;
 	}
 
 	nav {
@@ -53,6 +60,9 @@
 	.corner img {
 		filter: invert(1);
 		height: 1.4rem;
+	}
+
+	.conrer:hover {
 	}
 
 	a:hover {
@@ -84,9 +94,15 @@
 		font-weight: 400;
 		font-size: 0.7rem;
 		font-family: 'Inter', sans-serif;
-		text-transform: uppercase;
+		font-weight: 600;
 		letter-spacing: 0.1em;
 		text-decoration: none;
 		transition: color 0.2s linear;
+	}
+
+	@media (min-width: 650px) {
+		nav {
+			justify-content: space-between;
+		}
 	}
 </style>
