@@ -25,8 +25,9 @@
 			from beautiful Copenhagen🌇
 		</h1>
 	</div>
-	<div class="desktop-hero">
-		<img class="" src="Group 76.svg" alt="" />
+	<div class="desktop-hero w-full h-[36rem]">
+		<p class="text-[#5F739B]">.</p>
+		<!-- <img class="" src="Group 76.svg" alt="" /> -->
 	</div>
 </section>
 
@@ -276,6 +277,9 @@
 
 		.desktop-hero {
 			display: block;
+			background-image: url('../../static/Group 76.svg');
+			/* background-image: url('Group 77.svg'); */
+			background-size: cover;
 		}
 
 		.hero-text {
