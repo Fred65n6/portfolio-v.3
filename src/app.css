@@ -77,11 +77,11 @@
 
 	@media (max-width: 650px) {
 		h1 {
-			font-size: 0.7rem;
-			line-height: 4rem;
+			font-size: 0.8rem;
+			line-height: 2rem;
 		}
 		h2 {
-			font-size: 0.6rem;
+			font-size: 1.2rem;
 		}
 
 		span {
@@ -92,9 +92,9 @@
 			font-size: 0.9rem;
 		}
 
-		main {
+		/* main {
 			max-width: 100vw;
-		}
+		} */
 	}
 
 	/**************KNAPPER************/

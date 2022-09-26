@@ -16,7 +16,7 @@
 
 	<div class="hero-text ">
 		<div class="md:h-52" />
-		<h1 class="my-20 md:-ml-24">
+		<h1 class="md:my-20 my-10 md:-ml-24">
 			Hi there, i'm <span class="font-semibold md:tracking-in-expand-fwd">Frederik Milland!</span>
 			<br />
 
@@ -52,7 +52,7 @@
 	<section class="double-section">
 		<a sveltekit:prefetch href="/nb">
 			<div class="nb">
-				<div class="md:ml-10  mx-20">
+				<div class="md:ml-10  mx-10">
 					<h4>Summer 2022</h4>
 					<h2>Nørrebro bryghus</h2>
 					<p>How do we take a very page-heavy website and make it more manageable for the user?</p>
