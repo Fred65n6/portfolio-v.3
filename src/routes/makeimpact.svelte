@@ -25,7 +25,7 @@
 </section>
 
 <section class="content">
-	<div class="">
+	<div class="mx-10">
 		<h2>Where we started</h2>
 		<p>
 			So when I first started at make!impact, there already was an app. The app had most of the
@@ -39,7 +39,7 @@
 
 <section class="content">
 	<img src="Group 13.webp" alt="m! app" />
-	<div class="">
+	<div class="mx-10">
 		<h2>Keeping track</h2>
 		<p>
 			Working with an investment app, there is a lot of different screens and functionalities to
@@ -52,7 +52,7 @@
 </section>
 <section class="content-2">
 	<div class="md:grid md:grid-cols-2">
-		<div class="">
+		<div class="mx-10">
 			<h2>The make!mpact app</h2>
 			<p>
 				After a lot of protoyping and feedback sessions, we ended up with a slick new look app for
@@ -85,7 +85,6 @@
 		padding-top: 6rem;
 		display: grid;
 		place-items: center;
-
 		border: solid 2px #42506b;
 	}
 

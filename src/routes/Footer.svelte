@@ -1,4 +1,4 @@
-<footer>
+<footer class="max-10">
 	<div class="text-center">
 		<h2>Don't be a stranger 🤗</h2>
 		<p>
@@ -63,7 +63,7 @@
 		border: solid 3px #42506b;
 		padding-block: 1rem;
 		font-weight: 900;
-		font-size: 0.7rem;
+		font-size: 0.8rem;
 		padding-inline: 2rem;
 	}
 

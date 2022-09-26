@@ -24,7 +24,7 @@
 	<img src="Mask Group 28.webp" alt="m! app" />
 </section>
 <section class="content">
-	<div class="">
+	<div class="mx-10">
 		<h2>Designing for sustainability</h2>
 		<p>
 			The big obstacle in this project, was keeping the amount of energy needed to display this
@@ -36,7 +36,7 @@
 </section>
 <section class="content">
 	<img src="Group 68.webp" alt="m! app" />
-	<div class="">
+	<div class="mx-10">
 		<h2>Redefining the logo</h2>
 		<p>
 			the exsisting logo for the festival, only existed in a picture format, which of course didn't
@@ -49,7 +49,7 @@
 
 <section class="content-2">
 	<div class="md:grid md:grid-cols-2">
-		<div class="">
+		<div class="mx-10">
 			<h2>Working around the posters</h2>
 			<p>
 				So we're promoting a theatre festival, and all the different plays have some great posters
