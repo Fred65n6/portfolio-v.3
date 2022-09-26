@@ -62,7 +62,6 @@
 		padding-block: 1rem;
 		font-weight: 900;
 		font-size: 0.8rem;
-		padding-inline: 2rem;
 	}
 
 	.knap svg {
@@ -87,6 +86,7 @@
 
 		.knap {
 			font-size: 1rem;
+			padding-inline: 2rem;
 		}
 
 		footer {
