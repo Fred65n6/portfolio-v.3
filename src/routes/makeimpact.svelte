@@ -88,6 +88,11 @@
 		border: solid 2px #42506b;
 	}
 
+	.header img {
+		padding-inline: 1.5rem;
+		padding-block: 3rem;
+	}
+
 	.knap-kasse {
 		display: grid;
 		place-content: center;
