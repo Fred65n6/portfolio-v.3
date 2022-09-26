@@ -25,7 +25,7 @@
 </section>
 
 <section class="content">
-	<div class="m-10">
+	<div class="m-10 py-10">
 		<h2>Where we started</h2>
 		<p>
 			So when I first started at make!impact, there already was an app. The app had most of the
@@ -39,7 +39,7 @@
 
 <section class="content">
 	<img src="Group 13.webp" alt="m! app" />
-	<div class="m-10">
+	<div class="m-10 py-10">
 		<h2>Keeping track</h2>
 		<p>
 			Working with an investment app, there is a lot of different screens and functionalities to
@@ -51,8 +51,8 @@
 	</div>
 </section>
 <section class="content-2">
-	<div class="md:grid md:grid-cols-2">
-		<div class="m-10">
+	<div class=" m-10 py-10 md:grid md:grid-cols-2">
+		<div class="">
 			<h2>The make!mpact app</h2>
 			<p>
 				After a lot of protoyping and feedback sessions, we ended up with a slick new look app for
@@ -65,7 +65,7 @@
 		</div>
 		<img src="Mask Group 25.webp" alt="m! app" />
 	</div>
-	<div class="m-8 mt-24 grid place-items-center">
+	<div class="pb-10 m-8 mt-24 grid place-items-center">
 		<div class="knap-kasse">
 			<div class="knap">
 				<a
@@ -124,8 +124,6 @@
 	}
 
 	.content-2 {
-		padding: 3rem;
-		width: 97vw;
 		display: grid;
 		justify-items: center;
 		place-items: center;
@@ -149,6 +147,10 @@
 		}
 
 		.content {
+			max-width: 97vw;
+		}
+
+		.content-2 {
 			max-width: 97vw;
 		}
 
