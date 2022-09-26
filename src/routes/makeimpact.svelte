@@ -82,15 +82,10 @@
 <style>
 	.header {
 		width: 100vw;
-		padding-top: 6rem;
+		padding-top: 3rem;
 		display: grid;
 		place-items: center;
 		border: solid 2px #42506b;
-	}
-
-	.header img {
-		padding: 3rem;
-		width: 38rem;
 	}
 
 	.knap-kasse {
@@ -133,7 +128,7 @@
 	}
 
 	img {
-		max-width: 90%;
+		max-width: 95%;
 	}
 
 	@media (min-width: 600px) {
@@ -172,6 +167,12 @@
 
 		.header {
 			width: 97vw;
+			padding-top: 6rem;
+		}
+
+		.header img {
+			padding: 3rem;
+			width: 38rem;
 		}
 	}
 </style>
