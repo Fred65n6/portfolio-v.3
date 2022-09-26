@@ -82,12 +82,10 @@
 		display: flex;
 		height: 100%;
 		align-items: center;
-		padding: 0 1em;
 		font-weight: 400;
-		font-size: 0.6rem;
+		font-size: 0.5rem;
 		font-family: 'Inter', sans-serif;
 		font-weight: 600;
-		letter-spacing: 0.1em;
 		text-decoration: none;
 		transition: color 0.2s linear;
 	}
@@ -98,7 +96,12 @@
 		}
 
 		nav a {
-			font-size: 0.7;
+			padding: 0 1em;
+			font-weight: 400;
+			font-size: 0.7rem;
+			font-family: 'Inter', sans-serif;
+			font-weight: 600;
+			letter-spacing: 0.1em;
 		}
 	}
 </style>

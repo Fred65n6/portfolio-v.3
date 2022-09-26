@@ -96,7 +96,12 @@
 		}
 
 		nav a {
-			font-size: 1;
+			padding: 0 1em;
+			font-weight: 400;
+			font-size: 0.7rem;
+			font-family: 'Inter', sans-serif;
+			font-weight: 600;
+			letter-spacing: 0.1em;
 		}
 	}
 </style>
