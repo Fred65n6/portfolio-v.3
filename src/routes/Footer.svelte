@@ -37,7 +37,6 @@
 
 <style>
 	footer {
-		padding-right: 2rem;
 		overflow-x: hidden;
 		margin: 0 auto;
 		display: grid;

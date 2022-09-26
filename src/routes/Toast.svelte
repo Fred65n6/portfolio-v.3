@@ -24,7 +24,7 @@
 	<img src="Mask Group 29.webp" alt="m! app" />
 </section>
 <section class="content">
-	<div class="mx-10">
+	<div class="m-10 ">
 		<h2>Designing a logo</h2>
 		<p>
 			So we a have cool café, we have a great product... what are we missing? a logo! One of the
@@ -38,7 +38,7 @@
 </section>
 <section class="content">
 	<img class="md:h-72" src="SPORTS TOAST.svg" alt="m! app" />
-	<div class="mx-10">
+	<div class="m-10 ">
 		<h2>Showing the product <br /> in a new way</h2>
 		<p>
 			Like the owner of the café, we wanted to do things a little different with this one. So i
@@ -50,7 +50,7 @@
 
 <section class="content-2">
 	<div class="md:grid md:grid-cols-2">
-		<div class="mx-10">
+		<div class="m-10 ">
 			<h2>Bringing the café to life</h2>
 			<p>
 				Inspired by what we already did with the drawings of the toasts, we wanted to include the
