@@ -21,7 +21,7 @@
 			<br />
 
 			a UI / UX designer and problem solver 🔧<br />
-			creating user friendly design solutions 🏵️<br />
+			who's creating user friendly designs 🏵️<br />
 			from beautiful Copenhagen🌇
 		</h1>
 	</div>
@@ -122,7 +122,7 @@
 		width: 100%;
 		display: grid;
 		place-items: center;
-		text-align: left;
+		text-align: center;
 		border: solid 2px #42506b;
 		padding-bottom: 3rem;
 	}
