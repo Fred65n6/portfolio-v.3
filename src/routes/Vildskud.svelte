@@ -36,7 +36,7 @@
 </section>
 <section class="content py-10">
 	<img class="py-4" src="Group 68.webp" alt="m! app" />
-	<div class="m-4 md:m-4">
+	<div class="m-4 md:m-10">
 		<h2>Redefining the logo</h2>
 		<p>
 			the exsisting logo for the festival, only existed in a picture format, which of course didn't

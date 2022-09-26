@@ -38,7 +38,7 @@
 </section>
 <section class="content py-10">
 	<img class="md:h-72 py-4" src="SPORTS TOAST.svg" alt="m! app" />
-	<div class="m-10 md:m-10">
+	<div class="m-4 md:m-10">
 		<h2>Showing the product <br /> in a new way</h2>
 		<p>
 			Like the owner of the café, we wanted to do things a little different with this one. So i
