@@ -23,8 +23,8 @@
 	<p class="-m-4 font-medium">(unsolicited redesign)</p>
 	<img src="Mask Group 27.webp" alt="m! app" />
 </section>
-<section class="content">
-	<div class="m-10 py-10">
+<section class="content py-10">
+	<div class="m-4 md:m-10">
 		<h2>Visual identity</h2>
 		<p>
 			Working with Nørrebro Bryghus, means working with a successfull company which already has a
@@ -36,9 +36,9 @@
 	</div>
 	<img src="Group 66.svg" alt="m! app" />
 </section>
-<section class="content">
+<section class="content py-10">
 	<img src="kelly-sikkema-0iKjge_aOVo-unsplash.webp" alt="m! app" />
-	<div class="m-10 py-10">
+	<div class="m-4  md:m-10">
 		<h2>Information architecture</h2>
 		<p>
 			Nørrebro bryghus' website has a lot of pages, like a lot, and through user surveys, we could
@@ -49,8 +49,8 @@
 	</div>
 </section>
 
-<section class="content-2 ">
-	<div class="md:grid grid-cols-2 m-10 py-10">
+<section class="content-2 py-10">
+	<div class="md:grid grid-cols-2 m-4 md:m-10 ">
 		<div class="">
 			<h2>Product display</h2>
 			<p>
@@ -67,7 +67,7 @@
 		</div>
 	</div>
 
-	<div class="grid place-items-center m-8 md:mt-24 mt-10 ">
+	<div class="grid place-items-center m-4 md:m-10 md:mt-24 mt-10 ">
 		<div class="knap-kasse">
 			<div class="knap">
 				<a target="blank" href="https://nb-bryghus.netlify.app/"> Visit the site </a>

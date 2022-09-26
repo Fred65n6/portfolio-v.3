@@ -39,7 +39,7 @@
 
 <section class="content py-10">
 	<img src="Group 13.webp" alt="m! app" />
-	<div class="m-10 ">
+	<div class="m-4 md:m-10">
 		<h2>Keeping track</h2>
 		<p>
 			Working with an investment app, there is a lot of different screens and functionalities to
@@ -51,7 +51,7 @@
 	</div>
 </section>
 <section class="content-2 py-10">
-	<div class=" m-10 md:grid md:grid-cols-2">
+	<div class=" m-4 md:m-10 md:grid md:grid-cols-2">
 		<div class="">
 			<h2>The make!mpact app</h2>
 			<p>
@@ -65,7 +65,7 @@
 		</div>
 		<img class="pt-10" src="Mask Group 25.webp" alt="m! app" />
 	</div>
-	<div class="pb-10 m-8 md:mt-24 mt-10 grid place-items-center">
+	<div class="pb-10 m-4 md:m-10 md:mt-24 mt-10 grid place-items-center">
 		<div class="knap-kasse">
 			<div class="knap">
 				<a
