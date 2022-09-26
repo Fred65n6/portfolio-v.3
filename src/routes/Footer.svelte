@@ -1,4 +1,4 @@
-<footer class="max-10">
+<footer class="mx-10">
 	<div class="text-center">
 		<h2>Don't be a stranger 🤗</h2>
 		<p>

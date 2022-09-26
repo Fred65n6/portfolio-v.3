@@ -16,7 +16,7 @@
 
 	<div class="hero-text ">
 		<div class="md:h-52" />
-		<h1 class="md:my-20 my-10 md:-ml-24 md:max-w-[200%] max-w-[90%]">
+		<h1 class="mx-10 md:mx-0 md:my-20 my-10 md:-ml-24 md:max-w-[200%] max-w-[90%]">
 			Hi there, i'm <span class="font-semibold md:tracking-in-expand-fwd">Frederik Milland!</span>
 			<br />
 
@@ -124,7 +124,6 @@
 		place-items: center;
 		text-align: left;
 		border: solid 2px #42506b;
-		text-align: center;
 		padding-bottom: 3rem;
 	}
 

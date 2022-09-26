@@ -81,7 +81,7 @@
 
 <style>
 	.header {
-		width: 97vw;
+		width: 100vw;
 		padding-top: 6rem;
 		display: grid;
 		place-items: center;
@@ -125,11 +125,6 @@
 		border-right: solid 2px #42506b;
 	}
 
-	.content img {
-		padding-block: 4rem;
-		max-width: 350px;
-	}
-
 	.content-2 {
 		padding: 3rem;
 		width: 97vw;
@@ -141,9 +136,8 @@
 		border-right: solid 2px #42506b;
 	}
 
-	.content-2 img {
-		padding-block: 4rem;
-		max-width: 350px;
+	img {
+		max-width: 80%;
 	}
 
 	@media (min-width: 600px) {
@@ -162,9 +156,18 @@
 		}
 
 		.content-2 img {
+			padding-block: 4rem;
+			max-width: 350px;
+		}
+
+		.content-2 img {
 			max-width: 450px;
 			padding-block: 0rem;
 			margin-left: 8rem;
+		}
+
+		.header {
+			width: 97vw;
 		}
 	}
 </style>
