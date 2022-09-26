@@ -17,7 +17,7 @@
 	<div class="hero-text ">
 		<div class="md:h-52" />
 		<h1 class="my-20 md:-ml-24">
-			Hi there, i'm <span class="font-semibold tracking-in-expand-fwd">Frederik Milland!</span>
+			Hi there, i'm <span class="font-semibold md:tracking-in-expand-fwd">Frederik Milland!</span>
 			<br />
 
 			a UI / UX designer and problem solver 🔧<br />
@@ -124,10 +124,12 @@
 		place-items: center;
 		text-align: left;
 		border: solid 2px #42506b;
+		text-align: center;
+		padding-bottom: 3rem;
 	}
 
 	.hero img {
-		max-width: 100%;
+		max-width: 130vw;
 	}
 
 	.desktop-hero {
@@ -269,6 +271,8 @@
 	@media (min-width: 600px) {
 		.hero {
 			grid-template-columns: 1fr 1fr;
+			text-align: left;
+			padding-bottom: 0rem;
 		}
 
 		.mobil-hero {

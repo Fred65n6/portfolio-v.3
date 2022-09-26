@@ -41,7 +41,7 @@
 		margin: 0 auto;
 		display: grid;
 		place-items: center;
-		max-width: 97vw;
+		max-width: 100vw;
 		padding-block: 5rem;
 		width: 100%;
 		border-bottom: solid 2px #42506b;
@@ -84,6 +84,10 @@
 	@media (min-width: 600px) {
 		.buttons {
 			grid-template-columns: 1fr 1fr;
+		}
+
+		footer {
+			max-width: 97vw;
 		}
 	}
 </style>

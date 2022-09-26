@@ -29,7 +29,7 @@
 <style>
 	/* @media (min-width: 650px) { */
 	header {
-		max-width: 97vw;
+		max-width: 100vw;
 		position: sticky;
 		z-index: 1;
 		display: flex;
@@ -54,15 +54,7 @@
 
 	nav {
 		display: flex;
-		justify-content: space-evenly;
-	}
-
-	.corner img {
-		filter: invert(1);
-		height: 1.4rem;
-	}
-
-	.conrer:hover {
+		justify-content: space-between;
 	}
 
 	a:hover {
@@ -92,7 +84,7 @@
 		align-items: center;
 		padding: 0 1em;
 		font-weight: 400;
-		font-size: 0.7rem;
+		font-size: 0.6rem;
 		font-family: 'Inter', sans-serif;
 		font-weight: 600;
 		letter-spacing: 0.1em;
@@ -101,8 +93,12 @@
 	}
 
 	@media (min-width: 650px) {
-		nav {
-			justify-content: space-between;
+		header {
+			max-width: 97vw;
+		}
+
+		nav a {
+			font-size: 0.7;
 		}
 	}
 </style>
