@@ -52,7 +52,7 @@
 	<section class="double-section">
 		<a sveltekit:prefetch href="/nb">
 			<div class="nb">
-				<div class="ml-10  mx-20">
+				<div class="md:ml-10  mx-20">
 					<h4>Summer 2022</h4>
 					<h2>Nørrebro bryghus</h2>
 					<p>How do we take a very page-heavy website and make it more manageable for the user?</p>
@@ -65,7 +65,7 @@
 
 		<a sveltekit:prefetch href="/Vildskud">
 			<div class="vildskud">
-				<div class="ml-10  mx-10">
+				<div class="md:ml-10  mx-10">
 					<h4>Spring 2022</h4>
 					<h2>Vildskud festival</h2>
 					<p>
@@ -145,9 +145,6 @@
 		padding-top: 8rem;
 	} */
 
-	img {
-		max-width: 350px;
-	}
 	.makeimpact {
 		padding-block: 4rem;
 		width: 100%;
@@ -193,10 +190,6 @@
 		border-bottom: solid 2px #42506b;
 		border-right: solid 2px #42506b;
 		border-left: solid 2px #42506b;
-	}
-
-	.double-section img {
-		max-width: 350px;
 	}
 
 	.nb:hover {
@@ -268,6 +261,10 @@
 		color: #f6f5f3;
 	}
 
+	img {
+		max-width: 85vw;
+	}
+
 	@media (min-width: 600px) {
 		.hero {
 			grid-template-columns: 1fr 1fr;
@@ -291,6 +288,10 @@
 		}
 
 		img {
+			max-width: 350px;
+		}
+
+		img {
 			max-width: 450px;
 		}
 
@@ -305,6 +306,10 @@
 
 		.double-section {
 			grid-template-columns: 1fr 1fr;
+		}
+
+		.double-section img {
+			max-width: 350px;
 		}
 
 		.nb {
