@@ -61,7 +61,7 @@
 		</div>
 		<img src="stk_3.svg" alt="m! app" />
 	</div>
-	<div class="m-8 mt-24 grid place-items-center">
+	<div class="m-8 md:mt-24  mt-10 grid place-items-center">
 		<div class="knap-kasse">
 			<div class="knap">
 				<a target="blank" href="https://vildskud.netlify.app/"> Visit the site </a>
@@ -72,17 +72,16 @@
 
 <style>
 	.header {
-		width: 97vw;
-		padding-top: 6rem;
+		width: 100vw;
+		padding-top: 3rem;
 		display: grid;
 		place-items: center;
-
 		border: solid 2px #42506b;
 	}
 
 	.header img {
-		padding: 3rem;
-		width: 38rem;
+		padding-inline: 1.5rem;
+		padding-block: 3rem;
 	}
 
 	.knap-kasse {
@@ -107,24 +106,15 @@
 	}
 
 	.content {
-		padding: 3rem;
-		width: 97vw;
 		display: grid;
 		justify-items: center;
 		place-items: center;
 		border-bottom: solid 2px #42506b;
 		border-left: solid 2px #42506b;
 		border-right: solid 2px #42506b;
-	}
-
-	.content img {
-		padding-block: 4rem;
-		max-width: 85%;
 	}
 
 	.content-2 {
-		padding: 3rem;
-		width: 97vw;
 		display: grid;
 		justify-items: center;
 		place-items: center;
@@ -133,9 +123,8 @@
 		border-right: solid 2px #42506b;
 	}
 
-	.content-2 img {
-		padding-block: 4rem;
-		max-width: 350px;
+	img {
+		max-width: 95%;
 	}
 
 	@media (min-width: 600px) {
@@ -148,15 +137,38 @@
 			max-width: 750px;
 		}
 
+		.content {
+			max-width: 97vw;
+		}
+
+		.content-2 {
+			max-width: 97vw;
+		}
+
 		.content img {
 			max-width: 450px;
 			padding-block: 0rem;
 		}
 
 		.content-2 img {
+			padding-block: 4rem;
+			max-width: 350px;
+		}
+
+		.content-2 img {
 			max-width: 450px;
 			padding-block: 0rem;
 			margin-left: 8rem;
+		}
+
+		.header {
+			width: 97vw;
+			padding-top: 6rem;
+		}
+
+		.header img {
+			padding: 3rem;
+			width: 38rem;
 		}
 	}
 </style>
