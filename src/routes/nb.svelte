@@ -37,7 +37,7 @@
 	<img class="py-4" src="Group 66.svg" alt="m! app" />
 </section>
 <section class="content py-10">
-	<img class="mb-4" src="kelly-sikkema-0iKjge_aOVo-unsplash.webp" alt="m! app" />
+	<img class="py-4" src="kelly-sikkema-0iKjge_aOVo-unsplash.webp" alt="m! app" />
 	<div class="m-4  md:m-10">
 		<h2>Information architecture</h2>
 		<p>

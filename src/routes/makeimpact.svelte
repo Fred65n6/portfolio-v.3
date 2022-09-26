@@ -34,11 +34,11 @@
 			to start prototpying, and comming up with new design ideas. 🤔
 		</p>
 	</div>
-	<img src="Group 58.webp" alt="m! app" />
+	<img class="py-4" src="Group 58.webp" alt="m! app" />
 </section>
 
 <section class="content py-10">
-	<img src="Group 13.webp" alt="m! app" />
+	<img class="py-4" src="Group 13.webp" alt="m! app" />
 	<div class="m-4 md:m-10">
 		<h2>Keeping track</h2>
 		<p>
@@ -63,7 +63,7 @@
 				as you open the app. Have a look at the protoype and see how you feel about the app. 😊
 			</p>
 		</div>
-		<img class="pt-10" src="Mask Group 25.webp" alt="m! app" />
+		<img class="py-4" src="Mask Group 25.webp" alt="m! app" />
 	</div>
 	<div class="pb-10 m-4 md:m-10 md:mt-24 mt-10 grid place-items-center">
 		<div class="knap-kasse">
