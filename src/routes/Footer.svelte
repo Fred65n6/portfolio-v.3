@@ -1,5 +1,5 @@
-<footer class="mx-10">
-	<div class="text-center">
+<footer class="">
+	<div class="text-center mx-10">
 		<h2>Don't be a stranger 🤗</h2>
 		<p>
 			Thanks for having a look at my portfolio! <br /> If you saw something interesting or just want
@@ -8,7 +8,7 @@
 		<h2 class="text-xl">Have a nice day!</h2>
 	</div>
 
-	<div class="buttons">
+	<div class="buttons mx-10">
 		<div class="">
 			<a href="mailto:webmaster@example.com">
 				<div class="flex gap-4 knap">
