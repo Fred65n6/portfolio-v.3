@@ -63,7 +63,7 @@
 				as you open the app. Have a look at the protoype and see how you feel about the app. 😊
 			</p>
 		</div>
-		<img src="Mask Group 25.webp" alt="m! app" />
+		<img class="pt-8" src="Mask Group 25.webp" alt="m! app" />
 	</div>
 	<div class="pb-10 m-8 mt-24 grid place-items-center">
 		<div class="knap-kasse">
