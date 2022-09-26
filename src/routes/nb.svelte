@@ -24,7 +24,7 @@
 	<img src="Mask Group 27.webp" alt="m! app" />
 </section>
 <section class="content">
-	<div class="m-10 ">
+	<div class="m-10 py-10">
 		<h2>Visual identity</h2>
 		<p>
 			Working with Nørrebro Bryghus, means working with a successfull company which already has a
@@ -38,7 +38,7 @@
 </section>
 <section class="content">
 	<img src="kelly-sikkema-0iKjge_aOVo-unsplash.webp" alt="m! app" />
-	<div class="m-10 ">
+	<div class="m-10 py-10">
 		<h2>Information architecture</h2>
 		<p>
 			Nørrebro bryghus' website has a lot of pages, like a lot, and through user surveys, we could
@@ -49,9 +49,9 @@
 	</div>
 </section>
 
-<section class="content-2">
-	<div class="md:grid grid-cols-2">
-		<div class="m-10 ">
+<section class="content-2 ">
+	<div class="md:grid grid-cols-2 m-10 py-10">
+		<div class="">
 			<h2>Product display</h2>
 			<p>
 				To finish of this website and the webshop that we build, we wanted to display the products
