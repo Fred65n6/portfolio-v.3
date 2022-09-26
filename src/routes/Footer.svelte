@@ -37,8 +37,6 @@
 
 <style>
 	footer {
-		overflow-x: hidden;
-		margin: 0 auto;
 		display: grid;
 		place-items: center;
 		max-width: 100vw;
