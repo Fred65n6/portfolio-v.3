@@ -63,6 +63,7 @@
 		border: solid 3px #42506b;
 		padding-block: 1rem;
 		font-weight: 900;
+		font-size: 0.7rem;
 		padding-inline: 2rem;
 	}
 
@@ -84,6 +85,10 @@
 	@media (min-width: 600px) {
 		.buttons {
 			grid-template-columns: 1fr 1fr;
+		}
+
+		.knap {
+			font-size: 1rem;
 		}
 
 		footer {

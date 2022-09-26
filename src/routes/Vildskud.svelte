@@ -119,7 +119,7 @@
 
 	.content img {
 		padding-block: 4rem;
-		max-width: 350px;
+		max-width: 85%;
 	}
 
 	.content-2 {
