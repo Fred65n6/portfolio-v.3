@@ -37,6 +37,7 @@
 
 <style>
 	footer {
+		padding-right: 2rem;
 		overflow-x: hidden;
 		margin: 0 auto;
 		display: grid;
@@ -93,6 +94,7 @@
 
 		footer {
 			max-width: 97vw;
+			padding-right: 0rem;
 		}
 	}
 </style>
