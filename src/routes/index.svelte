@@ -21,7 +21,7 @@
 			<br />
 
 			a UI / UX designer and problem solver 🔧<br />
-			who's creating user friendly design solutions 🏵️<br />
+			creating user friendly design solutions 🏵️<br />
 			from beautiful Copenhagen🌇
 		</h1>
 	</div>
