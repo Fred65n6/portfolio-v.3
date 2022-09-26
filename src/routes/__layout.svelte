@@ -7,14 +7,7 @@
 	<slot />
 </main>
 
-<div class="footer">
-	<Footer class="" />
-</div>
+<Footer />
 
 <style>
-	.footer {
-		margin: 0 auto;
-		display: grid;
-		place-items: center;
-	}
 </style>

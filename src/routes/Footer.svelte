@@ -37,6 +37,7 @@
 
 <style>
 	footer {
+		margin: 0 auto;
 		display: grid;
 		place-items: center;
 		max-width: 100vw;

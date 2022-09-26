@@ -23,8 +23,8 @@
 	<p class="-m-4 font-medium">(Group project)</p>
 	<img src="Mask Group 28.webp" alt="m! app" />
 </section>
-<section class="content">
-	<div class="m-10 py-10">
+<section class="content py-10">
+	<div class="m-4 md:m-10">
 		<h2>Designing for sustainability</h2>
 		<p>
 			The big obstacle in this project, was keeping the amount of energy needed to display this
@@ -32,11 +32,11 @@
 			to go all out on this, so we decided not to use any .jpg, .png, animations or videos. 🤨
 		</p>
 	</div>
-	<img class="w-52" src="earth-leaf-24-filled.svg" alt="m! app" />
+	<img class="w-52 py-4" src="earth-leaf-24-filled.svg" alt="m! app" />
 </section>
-<section class="content">
-	<img src="Group 68.webp" alt="m! app" />
-	<div class="m-10 py-10">
+<section class="content py-10">
+	<img class="py-4" src="Group 68.webp" alt="m! app" />
+	<div class="m-4 md:m-4">
 		<h2>Redefining the logo</h2>
 		<p>
 			the exsisting logo for the festival, only existed in a picture format, which of course didn't
@@ -47,8 +47,8 @@
 	</div>
 </section>
 
-<section class="content-2">
-	<div class="md:grid md:grid-cols-2 m-10 py-10">
+<section class="content-2 py-10">
+	<div class="md:grid md:grid-cols-2 m-4 md:m-10 ">
 		<div class="">
 			<h2>Working around the posters</h2>
 			<p>
@@ -59,9 +59,9 @@
 				sustainability was the main focus of this project. 🌿
 			</p>
 		</div>
-		<img src="stk_3.svg" alt="m! app" />
+		<img class="py-4" src="stk_3.svg" alt="m! app" />
 	</div>
-	<div class="m-8 md:mt-24  mt-10 grid place-items-center">
+	<div class="m-4 md:mt-24  mt-10 grid place-items-center">
 		<div class="knap-kasse">
 			<div class="knap">
 				<a target="blank" href="https://vildskud.netlify.app/"> Visit the site </a>

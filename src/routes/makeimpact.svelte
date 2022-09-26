@@ -25,7 +25,7 @@
 </section>
 
 <section class="content py-10">
-	<div class="m-10 ">
+	<div class="m-4 md:m-10">
 		<h2>Where we started</h2>
 		<p>
 			So when I first started at make!impact, there already was an app. The app had most of the

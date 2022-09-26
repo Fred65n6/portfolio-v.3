@@ -23,8 +23,8 @@
 	<p class="-m-4 font-medium">(Group project)</p>
 	<img src="Mask Group 29.webp" alt="m! app" />
 </section>
-<section class="content">
-	<div class="m-10 py-10">
+<section class="content py-10">
+	<div class="m-4 md:m-10 ">
 		<h2>Designing a logo</h2>
 		<p>
 			So we a have cool café, we have a great product... what are we missing? a logo! One of the
@@ -34,11 +34,11 @@
 			with this logo design for toast no.9. ✏️
 		</p>
 	</div>
-	<img src="Group 64.svg" alt="m! app" />
+	<img class="py-4" src="Group 64.svg" alt="m! app" />
 </section>
-<section class="content">
-	<img class="md:h-72" src="SPORTS TOAST.svg" alt="m! app" />
-	<div class="m-10 py-10">
+<section class="content py-10">
+	<img class="md:h-72 py-4" src="SPORTS TOAST.svg" alt="m! app" />
+	<div class="m-10 md:m-10">
 		<h2>Showing the product <br /> in a new way</h2>
 		<p>
 			Like the owner of the café, we wanted to do things a little different with this one. So i
@@ -48,8 +48,8 @@
 	</div>
 </section>
 
-<section class="content-2">
-	<div class="md:grid md:grid-cols-2 m-10 py-10">
+<section class="content-2 py-10">
+	<div class="md:grid md:grid-cols-2 m-4 md:m-10 ">
 		<div class=" ">
 			<h2>Bringing the café to life</h2>
 			<p>
@@ -60,9 +60,9 @@
 				father in law. See if you can find him! 🔍
 			</p>
 		</div>
-		<img src="Group 69.svg" alt="m! app" />
+		<img class="py-4" src="Group 69.svg" alt="m! app" />
 	</div>
-	<div class="m-8 md:mt-24 mt-10 grid place-items-center">
+	<div class="m-4 md:mt-24 mt-10 grid place-items-center">
 		<div class="knap-kasse">
 			<div class="knap">
 				<a target="blank" href="https://skuret.eu/kea/toastno9/"> Visit the site </a>
