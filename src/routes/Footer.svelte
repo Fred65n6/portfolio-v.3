@@ -1,5 +1,5 @@
 <footer class="">
-	<div class="text-center mx-10">
+	<div class="text-center mx-4">
 		<h2>Don't be a stranger 🤗</h2>
 		<p>
 			Thanks for having a look at my portfolio! <br /> If you saw something interesting or just want

@@ -16,7 +16,7 @@
 
 	<div class="hero-text ">
 		<div class="md:h-52" />
-		<h1 class="mx-10 md:mx-0 md:my-20 my-10 md:-ml-24 md:max-w-[200%] max-w-[90%]">
+		<h1 class="mx-4 md:mx-0 md:my-20 my-10 md:-ml-24 md:max-w-[200%] max-w-[90%]">
 			Hi there, i'm <span class="font-semibold md:tracking-in-expand-fwd">Frederik Milland!</span>
 			<br />
 
@@ -34,7 +34,7 @@
 <section id="portfolio">
 	<a sveltekit:prefetch href="/makeimpact">
 		<section class="makeimpact ">
-			<div class="md:m-10 mx-10">
+			<div class="md:m-10 mx-4">
 				<h4>Fall 2022</h4>
 				<h2>The make!mpact app</h2>
 				<p>
@@ -52,7 +52,7 @@
 	<section class="double-section">
 		<a sveltekit:prefetch href="/nb">
 			<div class="nb">
-				<div class="md:ml-10  mx-10">
+				<div class="md:ml-10  mx-4">
 					<h4>Summer 2022</h4>
 					<h2>Nørrebro bryghus</h2>
 					<p>How do we take a very page-heavy website and make it more manageable for the user?</p>
@@ -65,7 +65,7 @@
 
 		<a sveltekit:prefetch href="/Vildskud">
 			<div class="vildskud">
-				<div class="md:ml-10  mx-10">
+				<div class="md:ml-10  mx-4">
 					<h4>Spring 2022</h4>
 					<h2>Vildskud festival</h2>
 					<p>
@@ -82,7 +82,7 @@
 
 	<a sveltekit:prefetch href="/Toast">
 		<section class="toast ">
-			<div class="md:m-10  mx-10 ">
+			<div class="md:m-10  mx-4 ">
 				<h4>Winter 2021</h4>
 				<h2>TOAST no.9</h2>
 				<p>
@@ -99,7 +99,7 @@
 
 <!-- <a sveltekit:prefetch href="/about"> -->
 <section id="about-me" class="about">
-	<div class="md:m-10 mx-10 ">
+	<div class="md:m-10 mx-4 ">
 		<h2>About me</h2>
 		<p>
 			Ever since i was a young boy, I always imagined that I would be working with something
