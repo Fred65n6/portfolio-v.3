@@ -70,7 +70,7 @@
 			<div class="knap">
 				<a
 					target="blank"
-					href="https://xd.adobe.com/view/517c9b01-fdac-4f02-90d8-4c3ff1f828ff-042f/?fullscreen"
+					href="https://xd.adobe.com/view/572d0309-dcd9-4511-85c2-6fbbb30237f8-027e/?fullscreen"
 				>
 					Explore the prototype
 				</a>
