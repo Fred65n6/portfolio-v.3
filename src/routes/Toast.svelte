@@ -42,8 +42,8 @@
 		<h2>Showing the product <br /> in a new way</h2>
 		<p>
 			Like the owner of the café, we wanted to do things a little different with this one. So i
-			started making this drawings of all the different toasts that Toast no.9 has to offer. The
-			owener of the café really loved this playfull way, to display his product. ❤️
+			started making these drawings of all the different sandwiches that Toast no.9 has to offer.
+			The owner of the café really loved this playfull way, to display his product. ❤️
 		</p>
 	</div>
 </section>
@@ -53,10 +53,11 @@
 		<div class=" ">
 			<h2>Bringing the café to life</h2>
 			<p>
-				Inspired by what we already did with the drawings of the toasts, we wanted to include the
-				all the different artifacts, that makes this cafés vibe so special, in the webdesign. So I
-				also sketched all the different things around the café, in adobe Illustrator. 📻 <br />
-				<br /> Bonus info: The old man who pops up different places on the site, is actually the owners
+				Inspired by what we already did with the drawings of the toasts, we wanted the webdesign to
+				include all the different artifacts, that makes this cafés vibe so special. So I also
+				sketched all the different things around the café, and took them in to adobe Illustrator. 📻 <br
+				/>
+				<br /> Bonus info: The old man who pops up in different places on the site, is actually the owners
 				father in law. See if you can find him! 🔍
 			</p>
 		</div>

@@ -31,7 +31,7 @@
 			So when I first started at make!impact, there already was an app. The app had most of the
 			functionalities it has today, but it really missed some of the "make!mpact vibe". The app was
 			very black on white, and without much to treat the users. So the first part of this task was
-			to start prototpying, and comming up with new design ideas. 🤔
+			to start prototyping, and coming up with new design ideas. 🤔
 		</p>
 	</div>
 	<img class="py-4" src="Group 58.webp" alt="m! app" />
@@ -42,11 +42,12 @@
 	<div class="m-4 md:m-10">
 		<h2>Keeping track</h2>
 		<p>
-			Working with an investment app, there is a lot of different screens and functionalities to
-			keep track with. 😅 Everything has to be connected somehow, and most importantly of all, it
-			HAS to make sense for even the most unexperienced user. In this app we also have a lot of
-			inofrmation on how the companies are performing when it comes to sustainablity and social
-			impact. All this data had to somehow be condensed and understanbale in the app.
+			Working with a complicated investment app, there is a lot of different screens and
+			functionalities to keep track with. 😅 Everything has to be connected somehow, and most
+			importantly of all, it HAS to make sense for even the most unexperienced user. In this app we
+			also have a lot of information on how the companies are performing when it comes to
+			sustainablity and social impact. All this data had to somehow be condensed and made
+			understandable in the app.
 		</p>
 	</div>
 </section>

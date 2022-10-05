@@ -29,7 +29,8 @@
 		<p>
 			The big obstacle in this project, was keeping the amount of energy needed to display this
 			website, as low as possible, while also promoting a theatre festival. In our group we decided
-			to go all out on this, so we decided not to use any .jpg, .png, animations or videos. 🤨
+			to go all out on the sustanability part, so we decided not to use any .jpg, .png, animations
+			or videos. 🤨
 		</p>
 	</div>
 	<img class="w-52 py-4" src="earth-leaf-24-filled.svg" alt="m! app" />
@@ -39,10 +40,10 @@
 	<div class="m-4 md:m-10">
 		<h2>Redefining the logo</h2>
 		<p>
-			the exsisting logo for the festival, only existed in a picture format, which of course didn't
-			allign with our visions for this webdesign. So i started sketching a new logo for the
-			festival. I tried to keep the main features, while also simplifying the logo, so it would be
-			easier to use in all sizes and platforms. ❣️
+			the exsisting logo for the festival, only existed in a .png format, which of course didn't
+			allign with our vision for this website. So i started sketching a new logo for the festival. I
+			tried to keep the main features of the original logo, while also simplifying the logo, so it
+			would be easier to use in all sizes and platforms. ❣️
 		</p>
 	</div>
 </section>
@@ -54,9 +55,9 @@
 			<p>
 				So we're promoting a theatre festival, and all the different plays have some great posters
 				made, but again that doesn't really allign with the purpose of this website, so what can we
-				do? What we did was to outline the posters, and then using that graphic to display the
-				different plays posters. Maybe not the most telling way to display a play, but again,
-				sustainability was the main focus of this project. 🌿
+				do? What we did was to outline the posters, and then use that graphic to display the
+				different plays posters. Maybe not the most telling way to display what a play is about, but
+				again, sustainability was the main focus of this project. 🌿
 			</p>
 		</div>
 		<img class="py-4" src="stk_3.svg" alt="m! app" />

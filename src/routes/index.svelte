@@ -38,9 +38,9 @@
 				<h4>Fall 2022</h4>
 				<h2>The make!mpact app</h2>
 				<p>
-					How do we make an investments platform for the new generation of investors? And exactly
-					how do we make sustainablity data accesible and understanable for people, with no former
-					experience in impact investment?
+					How do we make an investment platform for the new generation of investors? And exactly how
+					do we make sustainability data accesible and understandable for people, with no former
+					experience in impact investing?
 				</p>
 			</div>
 			<div class="pt-8 md:pt-0">
@@ -106,9 +106,9 @@
 			creative. At a very young age I fell in love with drawing. 🖍️ I drew cartoon figures and
 			funnny animals. Later on that passion transpired in to a love for playing and making music. 🎸
 			These passions still follow me to this day, but now there has just been added one more on top.
-			That passion is UI/UX- and graphic design! ❤️ Doing graphic design as well as webpages and
+			The passion for UI/UX- and graphic design! ❤️ Doing graphic design as well as webpages and
 			apps, allows me to be playfull and creative, while also doing something that is really
-			helpfull to others! And fot me that is a win/win 🏆
+			helpfull to others! And for me that is a win/win 🏆
 		</p>
 	</div>
 	<div class="">
