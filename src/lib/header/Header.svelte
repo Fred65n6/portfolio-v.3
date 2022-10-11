@@ -6,7 +6,7 @@
 	<nav>
 		<div class="corner hover:pulsate-fwd ">
 			<a sveltekit:prefetch href="/">
-				<p>🔷</p>
+				<img src="Group 78.svg" alt="" />
 			</a>
 		</div>
 		<div class="desktop-menu">
