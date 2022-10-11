@@ -52,7 +52,7 @@
 	</div>
 </section>
 <section class="content-2 py-10">
-	<div class=" m-4 md:m-10 md:grid md:grid-cols-2">
+	<div class=" md:grid md:grid-cols-2 m-4 md:m-16 gap-[10rem] place-items-center">
 		<div class="">
 			<h2>The make!mpact app</h2>
 			<p>
@@ -125,7 +125,6 @@
 	}
 
 	.content-2 {
-		display: grid;
 		justify-items: center;
 		place-items: center;
 		border-bottom: solid 2px #42506b;
@@ -134,7 +133,7 @@
 	}
 
 	img {
-		max-width: 95%;
+		max-width: 90%;
 	}
 
 	@media (min-width: 600px) {
@@ -153,22 +152,6 @@
 
 		.content-2 {
 			max-width: 97vw;
-		}
-
-		.content img {
-			max-width: 450px;
-			padding-block: 0rem;
-		}
-
-		.content-2 img {
-			padding-block: 4rem;
-			max-width: 350px;
-		}
-
-		.content-2 img {
-			max-width: 450px;
-			padding-block: 0rem;
-			margin-left: 8rem;
 		}
 
 		.header {
