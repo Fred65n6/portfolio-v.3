@@ -6,10 +6,9 @@
 	<nav>
 		<div class="corner hover:pulsate-fwd ">
 			<a sveltekit:prefetch href="/">
-				<p class="font-medium text-black">FM</p>
+				<p class="hover:decoration-none">🔷</p>
 			</a>
 		</div>
-
 		<div class="desktop-menu">
 			<ul>
 				<li class:active={$page.url.pathname === '/'}>
@@ -57,7 +56,7 @@
 		justify-content: space-between;
 	}
 
-	a:hover {
+	ul a:hover {
 		text-decoration: underline;
 	}
 

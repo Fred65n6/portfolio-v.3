@@ -6,10 +6,9 @@
 	<nav>
 		<div class="corner hover:pulsate-fwd ">
 			<a sveltekit:prefetch href="/">
-				<p class="font-medium text-black">FM</p>
+				<p>🔷</p>
 			</a>
 		</div>
-
 		<div class="desktop-menu">
 			<ul>
 				<li class:active={$page.url.pathname === '/'}>
@@ -33,7 +32,7 @@
 		position: sticky;
 		z-index: 1;
 		display: flex;
-		justify-content: space-evenly;
+		justify-content: center;
 		top: 0;
 		z-index: 3;
 		width: 100%;
@@ -55,9 +54,10 @@
 	nav {
 		display: flex;
 		justify-content: space-between;
+		place-items: center;
 	}
 
-	a:hover {
+	ul a:hover {
 		text-decoration: underline;
 	}
 
