@@ -56,6 +56,10 @@
 		justify-content: space-between;
 	}
 
+	nav img {
+		width: 70%;
+	}
+
 	ul a:hover {
 		text-decoration: underline;
 	}

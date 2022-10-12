@@ -78,6 +78,10 @@
 		gap: 20px;
 	}
 
+	nav img {
+		width: 70%;
+	}
+
 	nav a {
 		display: flex;
 		height: 100%;
