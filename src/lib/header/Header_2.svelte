@@ -5,8 +5,8 @@
 <header>
 	<nav>
 		<div class="corner hover:pulsate-fwd ">
-			<a class="w-[100px]" sveltekit:prefetch href="/">
-				<img class="w-[25px]" src="signatur.svg" alt="" />
+			<a sveltekit:prefetch href="/">
+				<img src="signatur.svg" alt="" />
 			</a>
 		</div>
 		<div class="desktop-menu">
@@ -45,10 +45,8 @@
 		background: #fefefe;
 	}
 
-	p {
-		font-family: 'recursive';
-		color: #42506b;
-		color: black;
+	.corner {
+		width: 100px;
 	}
 
 	nav {
