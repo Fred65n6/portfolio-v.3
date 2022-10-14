@@ -5,8 +5,8 @@
 <header>
 	<nav>
 		<div class="corner hover:pulsate-fwd ">
-			<a sveltekit:prefetch href="/">
-				<img src="Group 78.svg" alt="" />
+			<a class="w-[100px]" sveltekit:prefetch href="/">
+				<img class="w-[25px]" src="signatur.svg" alt="" />
 			</a>
 		</div>
 		<div class="desktop-menu">
