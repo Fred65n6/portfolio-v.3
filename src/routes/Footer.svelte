@@ -62,7 +62,7 @@
 		border: solid 3px #42506b;
 		padding-block: 1rem;
 		font-weight: 900;
-		font-size: 0.9rem;
+		font-size: 0.7rem;
 		padding-inline: 2rem;
 		place-items: center;
 	}
