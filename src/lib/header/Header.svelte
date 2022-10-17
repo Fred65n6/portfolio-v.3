@@ -77,7 +77,7 @@
 	}
 
 	nav img {
-		width: 70%;
+		width: 40%;
 	}
 
 	nav a {
@@ -95,6 +95,10 @@
 	@media (min-width: 650px) {
 		header {
 			max-width: 97vw;
+		}
+
+		nav img {
+			width: 70%;
 		}
 
 		nav a {

@@ -55,7 +55,7 @@
 	}
 
 	nav img {
-		width: 70%;
+		width: 40%;
 	}
 
 	ul a:hover {
@@ -94,6 +94,10 @@
 	@media (min-width: 650px) {
 		header {
 			max-width: 97vw;
+		}
+
+		nav img {
+			width: 70%;
 		}
 
 		nav a {
