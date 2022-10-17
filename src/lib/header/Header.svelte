@@ -85,9 +85,9 @@
 		height: 100%;
 		align-items: center;
 		font-weight: 400;
-		font-size: 0.45srem;
+		font-size: 0.45rem;
 		font-family: 'Inter', sans-serif;
-		font-weight: 600;
+		font-weight: 400;
 		text-decoration: none;
 		transition: color 0.2s linear;
 	}
