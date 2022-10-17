@@ -84,7 +84,7 @@
 		height: 100%;
 		align-items: center;
 		font-weight: 400;
-		font-size: 0.45rem;
+		font-size: 0.5rem;
 		font-family: 'Inter', sans-serif;
 		font-weight: 400;
 		text-decoration: none;
