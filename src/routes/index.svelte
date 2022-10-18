@@ -74,7 +74,7 @@
 					</p>
 				</div>
 				<div class="pt-12">
-					<img class="w-56" src="Group 63.svg" alt="vildskud logo" />
+					<img class="" src="Group 63.svg" alt="vildskud logo" />
 				</div>
 			</div>
 		</a>
@@ -262,7 +262,7 @@
 	}
 
 	img {
-		max-width: 85vw;
+		max-width: 60vw;
 	}
 
 	@media (min-width: 600px) {
@@ -288,11 +288,7 @@
 		}
 
 		img {
-			max-width: 350px;
-		}
-
-		img {
-			max-width: 450px;
+			max-width: 400px;
 		}
 
 		.hero img {
@@ -309,7 +305,7 @@
 		}
 
 		.double-section img {
-			max-width: 350px;
+			max-width: 200px;
 		}
 
 		.nb {
@@ -321,6 +317,7 @@
 			height: 450px;
 			border-left: none;
 			grid-template-columns: 1fr 1fr;
+			place-content: center;
 		}
 
 		.toast {
@@ -332,6 +329,19 @@
 		}
 	}
 
+	@media (min-width: 1500px) {
+		img {
+			max-width: 450px;
+		}
+
+		.double-section img {
+			max-width: 280px;
+		}
+
+		.about img {
+			max-width: 380px;
+		}
+	}
 	@media (min-width: 2000px) {
 		h1 {
 			padding-right: 34rem;
