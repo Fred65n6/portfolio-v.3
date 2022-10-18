@@ -15,7 +15,7 @@
 	<img class="mobil-hero w-full" src="Group 58.svg" alt="" />
 
 	<div class="hero-text ">
-		<div class="md:h-52" />
+		<div class="kasse" />
 		<h1 class="mx-4 md:my-20 my-10 md:max-w-[200%] md:pr-20 max-w-[90%]">
 			Hi there, i'm <span class="font-semibold ">Frederik Milland!</span>
 			<br />
@@ -265,11 +265,15 @@
 		max-width: 60vw;
 	}
 
-	@media (min-width: 600px) {
+	@media (min-width: 800px) {
 		.hero {
 			grid-template-columns: 1fr 1fr;
 			text-align: left;
 			padding-bottom: 0rem;
+		}
+
+		.kasse {
+			height: 13rem;
 		}
 
 		.mobil-hero {
