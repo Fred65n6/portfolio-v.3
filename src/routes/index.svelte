@@ -21,8 +21,7 @@
 			<br />
 
 			a UI / UX designer and problem solver 🔧<br />
-			who's creating user friendly designs 🏵️<br />
-			from beautiful Copenhagen🌇
+			who loves creating user friendly designs 🏵️<br />
 		</h1>
 	</div>
 	<div class="desktop-hero w-full h-[36rem]">
