@@ -13,11 +13,12 @@
 	// it so that it gets served as a static asset in prod
 	export const prerender = true;
 	import Header from '$lib/header/Header_2.svelte';
+	import BackToTop from './BackToTop.svelte';
 </script>
 
 <Header />
 
-<section class="header">
+<section class="header" id="top">
 	<h4>Fall 2022</h4>
 
 	<h2>The make!mpact app</h2>
@@ -66,7 +67,7 @@
 		</div>
 		<img class="py-4" src="Mask Group 25.webp" alt="m! app" />
 	</div>
-	<div class="pb-10 m-4 md:m-10 md:mt-24 mt-10 grid place-items-center">
+	<div class="pb-4 m-4 md:m-10 md:mt-24 mt-10 grid place-items-center">
 		<div class="knap-kasse">
 			<div class="knap">
 				<a
@@ -76,9 +77,12 @@
 					Explore the prototype
 				</a>
 			</div>
+			<a class="top" href="#top">Back to top</a>
 		</div>
 	</div>
 </section>
+
+<BackToTop />
 
 <style>
 	.header {
@@ -87,6 +91,17 @@
 		display: grid;
 		place-items: center;
 		border: solid 2px #42506b;
+	}
+
+	.top {
+		border: none;
+		text-decoration: underline;
+	}
+
+	.top:hover {
+		background-color: #fefefe;
+		border: none;
+		color: rgb(49, 138, 194);
 	}
 
 	.header img {
@@ -98,6 +113,8 @@
 		display: grid;
 		place-content: center;
 		margin: 0 auto;
+		justify-items: center;
+		gap: 25px;
 	}
 
 	a {

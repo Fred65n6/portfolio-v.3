@@ -17,7 +17,7 @@
 
 <Header />
 
-<section class="header">
+<section class="header" id="top">
 	<h4>Spring 2022</h4>
 	<h2>Vildskud festival</h2>
 	<p class="-m-4 font-medium">(Group project)</p>
@@ -67,6 +67,7 @@
 			<div class="knap">
 				<a target="blank" href="https://vildskud.netlify.app/"> Visit the site </a>
 			</div>
+			<a class="top" href="#top">Back to top</a>
 		</div>
 	</div>
 </section>
@@ -80,6 +81,17 @@
 		border: solid 2px #42506b;
 	}
 
+	.top {
+		border: none;
+		text-decoration: underline;
+	}
+
+	.top:hover {
+		background-color: #fefefe;
+		border: none;
+		color: rgb(49, 138, 194);
+	}
+
 	.header img {
 		padding-inline: 1.5rem;
 		padding-block: 3rem;
@@ -89,6 +101,8 @@
 		display: grid;
 		place-content: center;
 		margin: 0 auto;
+		justify-items: center;
+		gap: 25px;
 	}
 
 	a {

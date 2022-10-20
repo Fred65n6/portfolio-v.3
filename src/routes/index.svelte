@@ -101,7 +101,7 @@
 	<div class="md:m-10 mx-4 ">
 		<h2>About me</h2>
 		<p>
-			Ever since i was a young boy, I always imagined that I would be working with something
+			Ever since I was a young boy, I always imagined that I would be working with something
 			creative. At a very young age I fell in love with drawing. 🖍️ I drew cartoon figures and
 			funnny animals. Later on that passion transpired in to a love for playing and making music. 🎸
 			These passions still follow me to this day, but now there has just been added one more on top.
