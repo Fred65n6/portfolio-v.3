@@ -250,7 +250,7 @@
 		place-items: center;
 	}
 
-	.about:hover {
+	/* .about:hover {
 		background-color: #42506b;
 	}
 	.about:hover h2 {
@@ -258,7 +258,7 @@
 	}
 	.about:hover p {
 		color: #f6f5f3;
-	}
+	} */
 
 	img {
 		max-width: 70vw;

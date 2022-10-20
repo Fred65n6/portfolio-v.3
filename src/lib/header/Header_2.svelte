@@ -12,14 +12,27 @@
 		<div class="desktop-menu">
 			<ul>
 				<li class:active={$page.url.pathname === '/'}>
-					<a sveltekit:prefetch href="/">HOME</a>
+					<a class="home" sveltekit:prefetch href="/"></a>
+						<svg width="17" height="17" viewBox="0 0 16 16"
+							><g fill="#99999" fill-rule="evenodd"
+								><path
+									d="m8 3.293l6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6zm5-.793V6l-2-2V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5z"
+								/><path
+									d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207L1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z"
+								/></g
+							></svg
+						>GO BACK HOME
+					</a>
+				</li>
+				<!-- <li>
+					<a href="#portfolio">PORTFOLIO</a>
 				</li>
 				<li class:active={$page.url.pathname === '/'}>
 					<a sveltekit:prefetch href="/">PORTFOLIO</a>
 				</li>
 				<li class:active={$page.url.pathname === '/'}>
 					<a sveltekit:prefetch href="/">ABOUT ME</a>
-				</li>
+				</li> -->
 			</ul>
 		</div>
 	</nav>
@@ -47,6 +60,12 @@
 
 	.corner {
 		width: 100px;
+	}
+
+	.home {
+		display: flex;
+		gap: 10px;
+		justify-items: center;
 	}
 
 	nav {
