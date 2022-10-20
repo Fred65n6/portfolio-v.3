@@ -10,7 +10,7 @@
 
 	<div class="buttons mx-4">
 		<div class="">
-			<a href="mailto:webmaster@example.com">
+			<a href="mailto:frederik-milland@hotmail.com">
 				<div class="flex gap-4 knap ">
 					<svg width="25" height="25" viewBox="0 0 24 24"
 						><path

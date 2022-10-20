@@ -12,7 +12,7 @@
 		<div class="desktop-menu">
 			<ul>
 				<li class:active={$page.url.pathname === '/'}>
-					<a class="home" sveltekit:prefetch href="/"></a>
+					<a class="home" sveltekit:prefetch href="/">
 						<svg width="17" height="17" viewBox="0 0 16 16"
 							><g fill="#99999" fill-rule="evenodd"
 								><path
