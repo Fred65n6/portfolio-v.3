@@ -261,7 +261,7 @@
 	}
 
 	img {
-		max-width: 60vw;
+		max-width: 70vw;
 	}
 
 	@media (min-width: 800px) {
@@ -348,6 +348,12 @@
 	@media (min-width: 2000px) {
 		h1 {
 			padding-right: 34rem;
+		}
+	}
+
+	@media (max-width: 650px) {
+		.makeimpact img {
+			max-width: 90vw;
 		}
 	}
 </style>
