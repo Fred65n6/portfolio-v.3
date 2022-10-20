@@ -18,7 +18,7 @@
 
 <Header />
 
-<section class="header" id="top">
+<section class="header">
 	<h4>Fall 2022</h4>
 
 	<h2>The make!mpact app</h2>

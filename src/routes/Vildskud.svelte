@@ -17,7 +17,7 @@
 
 <Header />
 
-<section class="header" id="top">
+<section class="header">
 	<h4>Spring 2022</h4>
 	<h2>Vildskud festival</h2>
 	<p class="-m-4 font-medium">(Group project)</p>

@@ -2,7 +2,7 @@
 	import { page } from '$app/stores';
 </script>
 
-<header>
+<header id="top">
 	<nav>
 		<div class="corner hover:pulsate-fwd ">
 			<a sveltekit:prefetch href="/">

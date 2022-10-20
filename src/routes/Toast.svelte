@@ -17,7 +17,7 @@
 
 <Header />
 
-<section class="header" id="top">
+<section class="header">
 	<h4>Winter 2021</h4>
 	<h2>Toast no.9</h2>
 	<p class="-m-4 font-medium">(Group project)</p>
