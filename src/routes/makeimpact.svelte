@@ -13,7 +13,6 @@
 	// it so that it gets served as a static asset in prod
 	export const prerender = true;
 	import Header from '$lib/header/Header_2.svelte';
-	import BackToTop from './BackToTop.svelte';
 </script>
 
 <Header />
@@ -81,8 +80,6 @@
 		</div>
 	</div>
 </section>
-
-<BackToTop />
 
 <style>
 	.header {
