@@ -21,7 +21,7 @@
 			<br />
 
 			a UI / UX designer and problem solver 🔧<br />
-			who loves creating user friendly designs 🏵️<br />
+			who loves creating user-friendly designs 🏵️<br />
 		</h1>
 	</div>
 	<div class="desktop-hero w-full h-[36rem]">
